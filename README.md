@@ -43,7 +43,7 @@ A complete **Autonomous Multi-Agent Pipeline** that handles the entire workflow:
 ### 🧩 System Architecture  
 - 🧭 **Navigator Agent** — Calls Job Market Tool (function calling)  
 - 📰 **Curator Agent** — Creates polished content + image prompts  
-- ✅ **Evaluator Agent** — Scores output with a 10-point rubric  
+- ✅ **Evaluator Agent** — Scores output with 9 out of 10-points  
 
 ### 🛠 Tech  
 `Gemini 2.5 Flash` · `Multi-Agent Orchestration` · `Pydantic`  
