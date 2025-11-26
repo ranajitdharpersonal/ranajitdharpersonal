@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranajit Dhar</h1>
-<h3 align="center">AI/ML Developer • Multi-Agent Architect • AI Hackathon Participant • Building Real-World AI Projects</h3>
+<h3 align="center">AI/ML Developer • Multi Agent Architect • AI Hackathon Participant • Building Real World AI Projects</h3>
 
 ---
 
