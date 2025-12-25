@@ -4,8 +4,10 @@
 ---
 
 ## 🚀 About Me  
-I’m a B.Com graduate turned **AI Engineer-in-progress**, passionate about building **autonomous agents**, **cloud-powered AI tools**, and **real-world generative AI applications**.  
-From starting with zero coding background to creating advanced agentic systems — my journey proves that curiosity, grit, and creativity can build anything. 🚀
+I’m Ranajit Dhar, a B.Com graduate turned AI Engineer in progress, passionate about building agentic AI systems and cloud powered applications.
+Starting from zero coding, I now architect real world GenAI workflows, multi agent orchestration, and serverless automation using Google Cloud.
+
+I thrive on learning by building blending business logic with technical intelligence to turn complex ideas into scalable, user focused AI solutions. 🚀
 
 ---
 
