@@ -58,6 +58,7 @@ A complete **Autonomous Multi-Agent Pipeline** that handles the entire workflow:
 - **Google Chrome Built-in AI Challenge 2025** -  HackathonShowcased browser-integrated AI capabilities for seamless user experiences.
 - **Google AI Accelerate: Unlocking New Frontiers Hackathon** - Highlighted advanced generative AI features and real-world applications.
 - **Kaggle · Community Hackathon** - Agents Intensive - Capstone Project
+- **Tuya Al Innovators Hackathon 2025** - Multi Agent AI System that autonomously controls IoT devices (Smart Lighting) based on quality assessment.
 
 ---
 
@@ -67,6 +68,7 @@ A complete **Autonomous Multi-Agent Pipeline** that handles the entire workflow:
 - Inspect Rich Documents with Gemini Multimodality  
 - Build Real-World AI Applications with Gemini & Imagen  
 - Prompt Design in Vertex AI
+- 5-Day Al Agents Intensive Course with Google
 
  
 ## 💡 Google Cloud Skill Boost Achievements
