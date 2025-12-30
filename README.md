@@ -79,7 +79,7 @@ Gained practical experience across Vertex AI, Generative AI APIs, Cloud Run, and
 ---
 
 ## 📬 Connect With Me  
-🔗 **Personal Website:** https://ranajit-dhar-ai-07todie.gamma.site  
+🔗 **Personal Website:** (https://ranajit-dhar-portfolio.vercel.app)  
 💼 **LinkedIn:** www.linkedin.com/in/ranajit-dhar-a97851377
 
 ---
