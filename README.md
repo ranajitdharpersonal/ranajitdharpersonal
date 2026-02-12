@@ -69,23 +69,32 @@
 
 <div align="center">
 
-[![Ranajit's Stats](https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/ranajitdharpersonal)
+  <a href="https://github.com/ranajitdharpersonal">
+    <img src="https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=1800" height="170" alt="Ranajit's Stats" />
+  </a>
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=synthwave&hide_border=true)](https://github.com/ranajitdharpersonal)
+  <a href="https://github.com/ranajitdharpersonal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=synthwave&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages" />
+  </a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <a href="https://github.com/ranajitdharpersonal/ranajitdharpersonal/graphs/contribution">
+    <img src="https://raw.githubusercontent.com/ranajitdharpersonal/ranajitdharpersonal/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
+
+
 # 🔥 Projects
 
 
