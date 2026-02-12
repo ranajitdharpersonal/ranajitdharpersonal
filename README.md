@@ -81,8 +81,8 @@
 <img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 </td>
-<td width="60%">
-<h3>YES AI MASTER EDITION <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
+<td width="60%" valign="top">
+<h3 style="margin-top: 0;">YES AI MASTER EDITION <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
 <p>A <b>Quantum-Ready, Self-Healing, Multi-Brain AI Operating System</b>. It detects failures (429/5xx) and auto-switches models (Gemini → Llama → Qwen) to ensure 100% uptime.</p>
 <p><b>✨ Key Capabilities:</b></p>
 <ul>
