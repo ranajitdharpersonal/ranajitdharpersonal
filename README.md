@@ -293,9 +293,11 @@
 <p><i>Gained practical experience across Vertex AI, Generative AI APIs, Cloud Run, and Streamlit deployments through consistent challenges.</i></p>
 
 <ul>
-  <li><b>Generative AI:</b> Explore GenAI with Vertex AI Gemini API, Develop GenAI Apps with Streamlit.</li>
-  <li><b>Multimodality:</b> Inspect Rich Documents with Gemini Multimodality, Build Real-World Apps with Imagen.</li>
-  <li><b>Engineering:</b> Prompt Design in Vertex AI, Production-Grade Cloud Deployment.</li>
+  <li>Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge</li>
+  <li>Build Real World AI Applications with Gemini and Imagen Skill Badge</li>
+  <li>Develop GenAI Apps with Gemini and Streamlit Skill Badge</li>
+  <li>Explore Generative AI with the Vertex AI Gemini API Skill Badge</li>
+  <li>Prompt Design in Vertex AI Skill Badge</li>
 </ul>
 <br/>
 
@@ -314,20 +316,46 @@
 </div>
 
 <br/>
-<hr/>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
+<br/>
 
-## 📬 Connect With Me  
-🔗 **Personal Website:** https://ranajit-dhar-portfolio.vercel.app  
-💼 **LinkedIn:** www.linkedin.com/in/ranajit-dhar-a97851377
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Bridging+Business+Insight+with+AI;Building+Intelligent+Autonomous+Systems;Open+for+LLM+%7C+Agentic+AI+%7C+Cloud+Roles" alt="Typing SVG" />
+  </a>
+</div>
 
----
-  
-## 🤝 Let's Connect  
-I'm always excited to collaborate on AI projects, LLM tools, cloud systems, and innovative tech ideas.
+<br/>
 
-✨ *Building one intelligent tool at a time…*
+<div align="center">
+  <b>🚀 Ready to deploy the future? Let's collaborate.</b>
+  <br/><br/>
+
+  <a href="mailto:ranajitdhar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ranajit-dhar-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://ranajit-dhar-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>Architected with 🧠 & 💻 by <b>Ranajit Dhar</b> © 2026</i>
+</div>
+<br/>
+
