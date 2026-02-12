@@ -67,10 +67,12 @@
 
 <h2 align="center">🔥 Featured Projects</h2>
 
+<h2 align="center">🔥 Featured Projects</h2>
+
 <table border="0" width="100%">
 <tr>
-<td width="45%" align="center">
-<img src="https://cdn.dribbble.com/userupload/13010744/file/original-53678096531366113b2c9383db1e902b.png?resize=752x" alt="YES AI Master Edition" style="border-radius: 10px; width: 100%;" />
+<td width="40%" align="center">
+<img src="https://github.com/user-attachments/assets/44bd365d-357c-4a4b-9c18-78343f224924" alt="YES AI Master Edition" style="border-radius: 10px; width: 100%;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/yes-ai-master">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -79,8 +81,8 @@
 <img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 </td>
-<td width="55%">
-<h3><img src="https://github.com/user-attachments/assets/44bd365d-357c-4a4b-9c18-78343f224924" width="35" height="35" style="vertical-align: middle; margin-right: 10px;" /> YES AI MASTER EDITION <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle; margin-left: 10px;" /></h3>
+<td width="60%">
+<h3>YES AI MASTER EDITION <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
 <p>A <b>Quantum-Ready, Self-Healing, Multi-Brain AI Operating System</b>. It detects failures (429/5xx) and auto-switches models (Gemini → Llama → Qwen) to ensure 100% uptime.</p>
 <p><b>✨ Key Capabilities:</b></p>
 <ul>
