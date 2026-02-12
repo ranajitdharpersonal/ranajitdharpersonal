@@ -91,10 +91,13 @@
 </ul>
 <p><b>🔧 Tech Stack:</b></p>
 <p>
-<img src="https://img.shields.io/badge/Gemini_3_Pro-8E75B2?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Qwen_Survival-1C3C3C?style=flat-square&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_3_Pro-Primary_Brain-8E75B2?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_3-Failover_Core-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen-Survival_Mode-1C3C3C?style=flat-square&logo=huggingface&logoColor=white" /> 
+<br/> <img src="https://img.shields.io/badge/Python-Core-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-UI_Engine-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/SerpApi-Real_Time_Data-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
 </p>
 </td>
 </tr>
