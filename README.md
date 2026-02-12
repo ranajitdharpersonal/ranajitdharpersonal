@@ -263,6 +263,42 @@
 </ul>
 <br/>
 
+<h2 align="center">🎓 Certifications & Cloud Expertise</h2>
+
+<h3>🏆 Featured Specializations</h3>
+<ul>
+  <li>
+    <img src="https://img.shields.io/badge/Gen_AI_Academy-Certified-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+    <b> &nbsp;Google Cloud & Hack2Skill (Aug 2025)</b>
+    <br/>
+    Mastered Vertex AI, Gemini APIs, Imagen & Multimodal RAG to build scalable GenAI apps.
+  </li>
+  <br/>
+  <li>
+    <img src="https://img.shields.io/badge/Kaggle-AI_Agents_Intensive-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    <b> &nbsp;Kaggle & Google (Dec 2025)</b>
+    <br/>
+    Built Autonomous Agents with advanced tool-use & orchestration strategies.
+  </li>
+</ul>
+
+<h3>☁️ Google Cloud Skill Boost Achievements</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Courses_Completed-46+-34A853?style=for-the-badge&logo=google-classroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Hands--on_Labs-121+-FBBC04?style=for-the-badge&logo=google-cloud&logoColor=black" />
+<img src="https://img.shields.io/badge/Skill_Badges_Earned-55+-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<p><i>Gained practical experience across Vertex AI, Generative AI APIs, Cloud Run, and Streamlit deployments through consistent challenges.</i></p>
+
+<ul>
+  <li><b>Generative AI:</b> Explore GenAI with Vertex AI Gemini API, Develop GenAI Apps with Streamlit.</li>
+  <li><b>Multimodality:</b> Inspect Rich Documents with Gemini Multimodality, Build Real-World Apps with Imagen.</li>
+  <li><b>Engineering:</b> Prompt Design in Vertex AI, Production-Grade Cloud Deployment.</li>
+</ul>
+<br/>
+
 <h2 align="center">🔥 Coding Streak Protocol</h2>
 
 <div align="center">
@@ -284,32 +320,6 @@
   <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
----
-
-# 🏆 Hackathon Recognition 2025
-- **Google Cloud Run Hackathon** -  Demonstrated scalable cloud deployment and containerized AI solutions.
-- **Google Chrome Built-in AI Challenge 2025** -  HackathonShowcased browser-integrated AI capabilities for seamless user experiences.
-- **Google AI Accelerate: Unlocking New Frontiers Hackathon** - Highlighted advanced generative AI features and real-world applications.
-- **Kaggle · Community Hackathon** - Agents Intensive - Capstone Project
-- **Tuya Al Innovators Hackathon 2025** - Multi Agent AI System that autonomously controls IoT devices (Smart Lighting) based on quality assessment.
-
----
-
-## 🎓 Certifications (Google Cloud)  
-- Explore Generative AI with Vertex AI Gemini API  
-- Develop GenAI Apps with Gemini & Streamlit  
-- Inspect Rich Documents with Gemini Multimodality  
-- Build Real-World AI Applications with Gemini & Imagen  
-- Prompt Design in Vertex AI
-- 5-Day Al Agents Intensive Course with Google
-
- 
-## 💡 Google Cloud Skill Boost Achievements
-Completed 46+ courses and 121+ hands-on labs, mastering key areas in AI, ML, and Cloud Infrastructure.
-Earned 55 official Google Cloud Skill Badges, demonstrating consistent progress and hands-on expertise.
-Gained practical experience across Vertex AI, Generative AI APIs, Cloud Run, and Streamlit deployments through Google Cloud challenges and hackathons.
-
----
 
 ## 📬 Connect With Me  
 🔗 **Personal Website:** https://ranajit-dhar-portfolio.vercel.app  
