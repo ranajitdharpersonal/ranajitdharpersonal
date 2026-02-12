@@ -152,12 +152,15 @@
 <li>🚀 <b>Deep Research:</b> Multi-source synthesis.</li>
 <li>🌐 <b>Smart Multilingual:</b> Seamless EN/BN/Hindi.</li>
 <li>⚡ <b>Live Tools:</b> Integrated News, Weather & Math.</li>
+<li>🔐 <b>Secure Login:</b> bcrypt + OTP Verification</li>
 </ul>
 <p><b>🔧 Tech Stack:</b></p>
 <p>
 <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=google-lens&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/bcrypt-Security-2C3E50?style=flat-square&logo=json-web-tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OTP_Auth-2FA-FF6F00?style=flat-square&logo=authy&logoColor=white" />
 </p>
 </td>
 </tr>
@@ -178,8 +181,11 @@
 </ul>
 <p><b>🔧 Tech Stack:</b></p>
 <p>
-<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi_Agent-FF6F00?style=flat-square&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi_Agent-Orchestration-FF6F00?style=flat-square&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<br/> <img src="https://img.shields.io/badge/JSON-Strict_Mode-000000?style=flat-square&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Memory-Persistent-10B981?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 </td>
 <td width="45%" align="center">
