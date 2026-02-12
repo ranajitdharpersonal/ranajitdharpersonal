@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://github.com/ranajitdharpersonal.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;" alt="Ranajit Dhar Profile Pic"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
-  <br/> <br/>
+<div align="center">
+  <h1>Hey there! I'm <a href="https://github.com/ranajitdharpersonal">Ranajit Dhar</a> 👨‍💻</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Cloud+Architect;Building+YES+Ai+Master+Edition...;From+Commerce+to+Code;Google+Cloud+Certified+Developer;Architecting+Multi-Agent+Systems..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Cloud+Architect;Building+YES+Ai+Master+Edition...;From+Commerce+to+Code;Google+Cloud+Certified+Developer;Architecting+Multi-Agent+Systems..." alt="Typing SVG" />
   </a>
+
+  <br/>
 
   <p>
     <a href="http://ranajit-dhar-portfolio.vercel.app">
@@ -14,11 +18,26 @@
     <a href="https://www.linkedin.com/in/ranajit-dhar-personal">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
-  </p>
+     </p>
 </div>
 
 <br/>
----
+<hr/> <br/>
+
+### 🚀 About Me
+
+<p align="center">
+  <i>"From Commerce graduate to AI Architect, building intelligent agents and cloud-native solutions."</i>
+</p>
+
+- 💼 **Current Focus:** Architecting Multi-Agent Systems & Building **YES Ai Master Edition**.
+- ☁️ **Cloud Expertise:** Google Cloud Certified Developer, specializing in GenAI workflows & Serverless.
+- 🚀 **Mission:** Turning complex problems into scalable, AI-powered solutions.
+- ☕ **Fun Fact:** I believe in turning coffee into code and challenges into opportunities!
+
+<br/>
+<hr/>
+<br/>
 
 ## 🚀 About Me  
 I’m Ranajit Dhar, a B.Com graduate turned AI Engineer in progress, passionate about building agentic AI systems and cloud powered applications.
