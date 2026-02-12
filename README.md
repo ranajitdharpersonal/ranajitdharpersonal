@@ -81,18 +81,6 @@
 
 <br/>
 <hr/>
-<br/>
-
-<div align="center">
-  <h3>👀 Visitor Count</h3>
-  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=for-the-badge&color=0D1117&label=VIEWS&logo=github" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranajitdharpersonal&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" width="100%"/>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" alt="Profile Views" />
