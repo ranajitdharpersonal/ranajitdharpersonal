@@ -96,7 +96,7 @@
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://yesaimaster-ranajitdhar.streamlit.app">
-<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 </td>
 <td width="60%" valign="top">
@@ -171,7 +171,7 @@
 </a>
 </a>
 <a href="https://yesai2-ranajitdhar.streamlit.app">
-<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 </td>
 <td width="55%">
