@@ -69,7 +69,7 @@
 
 <table border="0" width="100%">
 <tr>
-<td width="30%" align="center">
+<td width="60%" align="center">
 <img src="https://github.com/user-attachments/assets/44bd365d-357c-4a4b-9c18-78343f224924" alt="YES AI Master Edition" style="border-radius: 10px; width: 100%;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/yes-ai-master">
@@ -126,7 +126,7 @@
 </p>
 </p>
 </td>
-<td width="30%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 <img src="https://github.com/user-attachments/assets/b09817dc-a339-4ba5-918e-65c76b48d164" alt="IoT Architecture" style="border-radius: 10px; width: 100%;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/YES-Ai-Studio-IoT-Edition-">
