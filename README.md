@@ -68,21 +68,15 @@
 <h2 align="center">📊 Command Center Status</h2>
 
 <div align="center">
-  
-  <a href="https://github.com/ranajitdharpersonal">
-    <img src="https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9" alt="Ranajit's Stats" />
-  </a>
 
-  <a href="https://github.com/ranajitdharpersonal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9" alt="Top Languages" />
-  </a>
+[![Ranajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9)](https://github.com/ranajitdharpersonal)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9)](https://github.com/ranajitdharpersonal)
 
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ranajitdharpersonal/ranajitdharpersonal/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <div align="center">
