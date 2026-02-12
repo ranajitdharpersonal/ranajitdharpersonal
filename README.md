@@ -69,8 +69,8 @@
 
 <table border="0" width="100%">
 <tr>
-<td width="60%" align="center">
-<img src="https://github.com/user-attachments/assets/44bd365d-357c-4a4b-9c18-78343f224924" alt="YES AI Master Edition" style="border-radius: 10px; width: 100%;" />
+<td width="30%" align="center">
+<img src="https://github.com/user-attachments/assets/44bd365d-357c-4a4b-9c18-78343f224924" alt="YES AI Master Edition" width="280" style="border-radius: 10px;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/yes-ai-master">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -126,8 +126,8 @@
 </p>
 </p>
 </td>
-<td width="45%" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/b09817dc-a339-4ba5-918e-65c76b48d164" alt="IoT Architecture" style="border-radius: 10px; width: 100%;" />
+<td width="30%" align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/b09817dc-a339-4ba5-918e-65c76b48d164" alt="IoT Architecture" width="280" style="border-radius: 10px;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/YES-Ai-Studio-IoT-Edition-">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -143,8 +143,8 @@
 
 <table border="0" width="100%">
 <tr>
-<td width="45%" align="center">
-<img src="https://cdn.dribbble.com/users/1615584/screenshots/15666579/media/c8a2485c2826a0c5c6437648f572c639.jpg?resize=400x300&vertical=center" alt="YES Ai Interface" style="border-radius: 10px; width: 100%;" />
+<td width="30%" align="center">
+<img src="https://github.com/user-attachments/assets/1268cc62-84a1-4f57-9795-8617d3b7d91c" alt="YES Ai Interface" width="280" style="border-radius: 10px;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/YES-Ai-2.0-Multi-Tool">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -194,8 +194,8 @@
 <img src="https://img.shields.io/badge/Memory-Persistent-10B981?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 </td>
-<td width="45%" align="center">
-<img src="https://cdn.dribbble.com/users/4120375/screenshots/16608753/media/4c540916964175b1c97a4773809d84c6.jpg?resize=400x300&vertical=center" alt="YES Ai Studio" style="border-radius: 10px; width: 100%;" />
+<td width="30%" align="center">
+<img src="https://github.com/user-attachments/assets/0c2a16ec-d8ed-4d02-821b-a8d22e70c766" alt="YES Ai Studio" width="280" style="border-radius: 10px;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/YES-Ai-Studio-Agentic-Multimodal-Creator-Capstone-Edition-">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
