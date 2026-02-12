@@ -67,8 +67,6 @@
 
 <h2 align="center">🔥 Featured Projects</h2>
 
-<h2 align="center">🔥 Featured Projects</h2>
-
 <table border="0" width="100%">
 <tr>
 <td width="40%" align="center">
@@ -128,8 +126,8 @@
 </p>
 </p>
 </td>
-<td width="45%" align="center">
-<img src="https://github.com/user-attachments/assets/118fbbd4-d64a-483c-9dd4-65471621c04a" alt="IoT Architecture" style="border-radius: 10px; width: 100%;" />
+<td width="45%" align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/b09817dc-a339-4ba5-918e-65c76b48d164" alt="IoT Architecture" style="border-radius: 10px; width: 100%;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/YES-Ai-Studio-IoT-Edition-">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
