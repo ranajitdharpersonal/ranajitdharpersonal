@@ -5,12 +5,15 @@ on:
   schedule:
     - cron: "0 0 * * *" 
   
-  # Tumi chaile jokhon tokhon 'Run workflow' button click koreo chalate paro
+  # Manual run er jonno
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
@@ -27,7 +30,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to the output branch
-        uses: crazy-max/gh-action-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
