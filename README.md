@@ -152,7 +152,7 @@
 <a href="https://github.com/ranajitdharpersonal/YES-Ai-Studio-IoT-Edition-">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://youtu.be/xQ3aYaKS1BQ">
+<a href="https://www.youtube.com/watch?v=xQ3aYaKS1BQ">
 <img src="https://img.shields.io/badge/Demo_Video-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </td>
@@ -168,6 +168,10 @@
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/YES-Ai-2.0-Multi-Tool">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</a>
+<a href="https://yesai2-ranajitdhar.streamlit.app">
+<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 </td>
 <td width="55%">
@@ -217,8 +221,11 @@
 <td width="30%" align="center">
 <img src="https://github.com/user-attachments/assets/0c2a16ec-d8ed-4d02-821b-a8d22e70c766" alt="YES Ai Studio" width="280" style="border-radius: 10px;" />
 <br/><br/>
-<a href="https://github.com/ranajitdharpersonal/YES-Ai-Studio-Agentic-Multimodal-Creator-Capstone-Edition-">
+<a href="https://github.com/ranajitdharpersonal/-YES-Ai-Studio-Agentic-Multimodal-Creator-Capstone-Edition-">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/watch?v=AkyKg3zEi3s">
+<img src="https://img.shields.io/badge/Demo_Video-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </td>
 </tr>
