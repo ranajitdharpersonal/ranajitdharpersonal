@@ -80,13 +80,7 @@
 </a>
 </td>
 <td width="55%">
-<h3>
-  <img src="https://github.com/user-attachments/assets/44bd365d-357c-4a4b-9c18-78343f224924" width="30" height="30" style="vertical-align: middle;" /> 
-  
-  YES AI MASTER EDITION 
-  
-  <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="18" style="vertical-align: middle;" />
-</h3>
+<h3><img src="https://github.com/user-attachments/assets/44bd365d-357c-4a4b-9c18-78343f224924" width="35" height="35" style="vertical-align: middle; margin-right: 10px;" /> YES AI MASTER EDITION <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle; margin-left: 10px;" /></h3>
 <p>A <b>Quantum-Ready, Self-Healing, Multi-Brain AI Operating System</b>. It detects failures (429/5xx) and auto-switches models (Gemini → Llama → Qwen) to ensure 100% uptime.</p>
 <p><b>✨ Key Capabilities:</b></p>
 <ul>
