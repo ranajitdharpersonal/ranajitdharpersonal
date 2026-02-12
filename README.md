@@ -68,15 +68,19 @@
 <h2 align="center">📊 Command Center Status</h2>
 
 <div align="center">
-
-[![Ranajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9)](https://github.com/ranajitdharpersonal)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9)](https://github.com/ranajitdharpersonal)
-
+  <a href="https://github.com/ranajitdharpersonal">
+    <img src="https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="Ranajit's Stats" height="180"/>
+  </a>
+  
+  <a href="https://github.com/ranajitdharpersonal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Top Languages" height="180"/>
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ranajitdharpersonal/ranajitdharpersonal/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <div align="center">
