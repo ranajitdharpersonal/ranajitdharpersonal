@@ -286,8 +286,8 @@
 
 <p>
 <img src="https://img.shields.io/badge/Courses_Completed-46+-34A853?style=for-the-badge&logo=google-classroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Hands--on_Labs-121+-FBBC04?style=for-the-badge&logo=google-cloud&logoColor=black" />
-<img src="https://img.shields.io/badge/Skill_Badges_Earned-55+-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Hands--on_Labs-169+-FBBC04?style=for-the-badge&logo=google-cloud&logoColor=black" />
+<img src="https://img.shields.io/badge/Skill_Badges_Earned-62+-EA4335?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 <p><i>Gained practical experience across Vertex AI, Generative AI APIs, Cloud Run, and Streamlit deployments through consistent challenges.</i></p>
