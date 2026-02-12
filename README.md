@@ -225,38 +225,6 @@
   <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-
-# 🔥 Projects
-
-
-## 🤖 YES Ai — Multi-Tool AI Agent  
-A next-gen AI assistant combining multiple tools with Gemini 2.0 Flash. 
-
-### ✨ Features  
-- Deep Research Mode (multi-source info synthesis)  
-- Smart Multilingual Chat (EN/BN/Hindi)  
-- News, Weather & Math Tools  
-- Secure Login (bcrypt + OTP)  
-- Real-time API integration  
-
-### 🔧 Tech Stack  
-`Gemini 2.0 Flash` · `Python` · `Streamlit` · `bcrypt` · `OTP Auth`
-
----
-
-## 🌟 YES Ai Studio — Agentic Multimodal Creator (Kaggle Capstone Edition)  
-A complete **Autonomous Multi-Agent Pipeline** that handles the entire workflow:  
-**Plan → Create → Validate**
-
-### 🧩 System Architecture  
-- 🧭 **Navigator Agent** — Calls Job Market Tool (function calling)  
-- 📰 **Curator Agent** — Creates polished content + image prompts  
-- ✅ **Evaluator Agent** — Scores output with 9 out of 10-points  
-
-### 🛠 Tech  
-`Gemini 2.5 Flash` · `Multi-Agent Orchestration` · `Pydantic`  
-`JSON Validation` · `Persistent Memory`  
-
 ---
 
 # 🏆 Hackathon Recognition 2025
