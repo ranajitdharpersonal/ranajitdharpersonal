@@ -40,22 +40,54 @@
 <hr/>
 <br/>
 
-## 🚀 About Me  
-I’m Ranajit Dhar, a B.Com graduate turned AI Engineer in progress, passionate about building agentic AI systems and cloud powered applications.
-Starting from zero coding, I now architect real world GenAI workflows, multi agent orchestration, and serverless automation using Google Cloud.
+<h2 align="center">⚡ Tech Arsenal & Tools</h2>
 
-I thrive on learning by building blending business logic with technical intelligence to turn complex ideas into scalable, user focused AI solutions. 🚀
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/>
 
----
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20lens&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <br/>
 
-## 🧠 What I Do  
-- Build **Gemini-powered AI applications**  
-- Create **multi-agent workflows** with planning → creation → evaluation  
-- Design **serverless, scalable apps** using Google Cloud  
-- Prototype fast using **Python + Streamlit**  
-- Explore multimodality, orchestration, and secure AI workflows    
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  
+</div>
 
----
+<br/>
+<hr/>
+<br/>
+
+<h2 align="center">📊 Command Center Status</h2>
+
+<div align="center">
+  
+  <a href="https://github.com/ranajitdharpersonal">
+    <img src="https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9" alt="Ranajit's Stats" />
+  </a>
+
+  <a href="https://github.com/ranajitdharpersonal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=c9d1d9" alt="Top Languages" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 # 🔥 Projects
 
