@@ -73,9 +73,11 @@
 
 <br/>
 
+<h2 align="center">⚡ Neural Laser Activity</h2>
+
 <div align="center">
-  <a href="https://github.com/ranajitdharpersonal/ranajitdharpersonal/graphs/contribution">
-    <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <a href="https://github.com/ranajitdharpersonal">
+    <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/raw/output/github-contribution-grid-snake.svg" alt="Laser Beam Animation" width="100%"/>
   </a>
 </div>
 
