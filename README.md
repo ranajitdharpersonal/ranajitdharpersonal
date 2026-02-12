@@ -91,9 +91,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ranajitdharpersonal/ranajitdharpersonal/graphs/contribution">
-    <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranajitdharpersonal&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
