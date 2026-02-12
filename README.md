@@ -22,7 +22,7 @@
 </div>
 
 <br/>
-<hr/> <br/>
+<br/>
 
 ### 🚀 About Me
 
@@ -37,7 +37,6 @@
 - ⚡ **Fun Fact:** I build complex AI systems solo — from idea to architecture to deployment.
 
 <br/>
-<hr/>
 <br/>
 
 <h2 align="center">⚡ Tech Arsenal & Tools</h2>
@@ -84,7 +83,6 @@
 </p>
 
 <br/>
-<hr/>
 <br/>
 
 <h2 align="center">🔥 Featured Projects</h2>
