@@ -116,8 +116,10 @@
 <p><b>🔧 Tech Stack:</b></p>
 <p>
 <img src="https://img.shields.io/badge/Tuya_IoT_Cloud-FF5900?style=flat-square&logo=tuya&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Python_SDK-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+</p>
 </p>
 </td>
 <td width="45%" align="center">
