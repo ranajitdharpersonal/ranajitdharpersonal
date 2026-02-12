@@ -33,7 +33,8 @@
 - 💼 **Current Focus:** Architecting Multi-Agent Systems & Building **YES Ai Master Edition**.
 - ☁️ **Cloud Expertise:** Google Cloud Certified Developer, specializing in GenAI workflows & Serverless.
 - 🚀 **Mission:** Turning complex problems into scalable, AI-powered solutions.
-- ☕ **Fun Fact:** I believe in turning coffee into code and challenges into opportunities!
+- 🧠 **Core Strength:** Designing scalable, explainable and self-healing AI architectures.
+- ⚡ **Fun Fact:** I build complex AI systems solo — from idea to architecture to deployment.
 
 <br/>
 <hr/>
