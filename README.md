@@ -68,13 +68,13 @@
 <h2 align="center">📊 Command Center Status</h2>
 
 <div align="center">
-  <a href="https://github.com/ranajitdharpersonal">
-    <img src="https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="Ranajit's Stats" height="180"/>
-  </a>
-  
-  <a href="https://github.com/ranajitdharpersonal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Top Languages" height="180"/>
-  </a>
+
+[![Ranajit's Stats](https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/ranajitdharpersonal)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=synthwave&hide_border=true)](https://github.com/ranajitdharpersonal)
+
 </div>
 
 <br/>
@@ -84,9 +84,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
 # 🔥 Projects
 
 
