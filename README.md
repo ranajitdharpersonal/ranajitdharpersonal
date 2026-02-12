@@ -81,13 +81,14 @@
 </td>
 <td width="55%">
 <h3>🧠 YES AI MASTER EDITION <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="18"/></h3>
-<p>A <b>Self-Healing, Multi-Brain AI Operating System</b>. It detects failures (429/5xx) and auto-switches models (Gemini → Llama → Qwen) to ensure 100% uptime.</p>
+<p>A <b>Quantum-Ready, Self-Healing, Multi-Brain AI Operating System</b>. It detects failures (429/5xx) and auto-switches models (Gemini → Llama → Qwen) to ensure 100% uptime.</p>
 <p><b>✨ Key Capabilities:</b></p>
 <ul>
-<li>🔄 <b>Unbreakable Logic:</b> Auto-Failover Circuit Breaker.</li>
-<li>🛡️ <b>Sentinel Mode:</b> Quantum-Safe (Kyber-1024) Key Gen.</li>
-<li>🔮 <b>Unified Pipeline:</b> Chain Dev, Analyst & Creator modes.</li>
-<li>📊 <b>Glass-Box Ops:</b> Real-time Cost & Token tracking.</li>
+<li>🔄 <b>Self-Healing by Design:</b> Auto-retry & evaluator loops.</li>
+<li>🛡️ <b>Unbreakable AI:</b> Auto-Failover Circuit Breaker.</li>
+<li>🧬 <b>Quantum-Ready:</b> Sentinel Mode generates Kyber-1024 safe keys.</li>
+<li>🔮 <b>Unified Pipeline:</b> Chain Dev, Analyst, Creator & Sentinel modes.</li>
+<li>📊 <b>Glass-Box Ops:</b> Live "Brain View", Real-time Cost & Token tracking.</li>
 </ul>
 <p><b>🔧 Tech Stack:</b></p>
 <p>
