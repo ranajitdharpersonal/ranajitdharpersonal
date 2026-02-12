@@ -65,6 +65,137 @@
 <hr/>
 <br/>
 
+<h2 align="center">🔥 Featured Projects</h2>
+
+<table border="0" width="100%">
+<tr>
+<td width="45%" align="center">
+<img src="https://cdn.dribbble.com/userupload/13010744/file/original-53678096531366113b2c9383db1e902b.png?resize=752x" alt="YES AI Master Edition" style="border-radius: 10px; width: 100%;" />
+<br/><br/>
+<a href="https://github.com/ranajitdharpersonal/yes-ai-master">
+<img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://yesaimaster-ranajitdhar.streamlit.app">
+<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+</td>
+<td width="55%">
+<h3>🧠 YES AI MASTER EDITION <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="18"/></h3>
+<p>A <b>Self-Healing, Multi-Brain AI Operating System</b>. It detects failures (429/5xx) and auto-switches models (Gemini → Llama → Qwen) to ensure 100% uptime.</p>
+<p><b>✨ Key Capabilities:</b></p>
+<ul>
+<li>🔄 <b>Unbreakable Logic:</b> Auto-Failover Circuit Breaker.</li>
+<li>🛡️ <b>Sentinel Mode:</b> Quantum-Safe (Kyber-1024) Key Gen.</li>
+<li>🔮 <b>Unified Pipeline:</b> Chain Dev, Analyst & Creator modes.</li>
+<li>📊 <b>Glass-Box Ops:</b> Real-time Cost & Token tracking.</li>
+</ul>
+<p><b>🔧 Tech Stack:</b></p>
+<p>
+<img src="https://img.shields.io/badge/Gemini_3_Pro-8E75B2?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen_Survival-1C3C3C?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="55%">
+<h3>🌐 YES Ai Studio (IoT Edition)</h3>
+<p>An <b>Autonomous Physical Agent</b> that bridges Generative AI with Smart Home Hardware (Tuya Cloud). It evaluates creativity to control studio lighting.</p>
+<p><b>✨ Agent Workflow:</b></p>
+<ul>
+<li>🧭 <b>Navigator:</b> Plans the creative workflow.</li>
+<li>⚖️ <b>Evaluator:</b> Scores content quality (1-10).</li>
+<li>🔌 <b>Tuya Bridge:</b> <b>IF Score > 8:</b> Turn ON Studio Lights (Green Signal).</li>
+</ul>
+<p><b>🔧 Tech Stack:</b></p>
+<p>
+<img src="https://img.shields.io/badge/Tuya_IoT_Cloud-FF5900?style=flat-square&logo=tuya&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_SDK-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+</td>
+<td width="45%" align="center">
+<img src="https://github.com/user-attachments/assets/118fbbd4-d64a-483c-9dd4-65471621c04a" alt="IoT Architecture" style="border-radius: 10px; width: 100%;" />
+<br/><br/>
+<a href="https://github.com/ranajitdharpersonal/YES-Ai-Studio-IoT-Edition-">
+<img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://youtu.be/xQ3aYaKS1BQ">
+<img src="https://img.shields.io/badge/Demo_Video-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="45%" align="center">
+<img src="https://cdn.dribbble.com/users/1615584/screenshots/15666579/media/c8a2485c2826a0c5c6437648f572c639.jpg?resize=400x300&vertical=center" alt="YES Ai Interface" style="border-radius: 10px; width: 100%;" />
+<br/><br/>
+<a href="https://github.com/ranajitdharpersonal/YES-Ai-2.0-Multi-Tool">
+<img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="55%">
+<h3>🤖 YES Ai — Multi-Tool Agent</h3>
+<p>A next-gen assistant combining <b>Deep Research</b>, <b>Real-time Data</b>, and <b>Secure Auth</b>. It provides grounded answers, not just text.</p>
+<p><b>✨ Key Features:</b></p>
+<ul>
+<li>🚀 <b>Deep Research:</b> Multi-source synthesis.</li>
+<li>🌐 <b>Smart Multilingual:</b> Seamless EN/BN/Hindi.</li>
+<li>⚡ <b>Live Tools:</b> Integrated News, Weather & Math.</li>
+</ul>
+<p><b>🔧 Tech Stack:</b></p>
+<p>
+<img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=google-lens&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="55%">
+<h3>🌟 YES Ai Studio (Capstone)</h3>
+<p>An <b>Autonomous Multi-Agent Pipeline</b> that handles the entire workflow: Plan → Create → Validate without human intervention.</p>
+<p><b>✨ Agent Architecture:</b></p>
+<ul>
+<li>🧭 <b>Navigator:</b> Plans tasks & calls Job Market tools.</li>
+<li>📰 <b>Curator:</b> Generates polished content + Prompts.</li>
+<li>✅ <b>Evaluator:</b> Strict 9/10 quality scoring.</li>
+</ul>
+<p><b>🔧 Tech Stack:</b></p>
+<p>
+<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi_Agent-FF6F00?style=flat-square&logo=robotframework&logoColor=white" />
+</p>
+</td>
+<td width="45%" align="center">
+<img src="https://cdn.dribbble.com/users/4120375/screenshots/16608753/media/4c540916964175b1c97a4773809d84c6.jpg?resize=400x300&vertical=center" alt="YES Ai Studio" style="border-radius: 10px; width: 100%;" />
+<br/><br/>
+<a href="https://github.com/ranajitdharpersonal/YES-Ai-Studio-Agentic-Multimodal-Creator-Capstone-Edition-">
+<img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br/>
+
 <h2 align="center">🔥 Coding Streak Protocol</h2>
 
 <div align="center">
