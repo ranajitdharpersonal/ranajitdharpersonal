@@ -1,6 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ranajit Dhar</h1>
-<h3 align="center">AI & ML Developer • Multi Agent Architect • AI Hackathon Participant • Building Real World AI Projects</h3>
+<div align="center">
+  <img src="https://github.com/ranajitdharpersonal.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;" alt="Ranajit Dhar Profile Pic"/>
 
+  <br/> <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Cloud+Architect;Building+YES+Ai+Master+Edition...;From+Commerce+to+Code;Google+Cloud+Certified+Developer;Architecting+Multi-Agent+Systems..." alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="http://ranajit-dhar-portfolio.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/ranajit-dhar-personal">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
+
+<br/>
 ---
 
 ## 🚀 About Me  
