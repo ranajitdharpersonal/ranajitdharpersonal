@@ -65,34 +65,40 @@
 <hr/>
 <br/>
 
-<h2 align="center">📊 Command Center Status</h2>
+<h2 align="center">🔥 Coding Streak Protocol</h2>
 
 <div align="center">
-
-  <a href="https://github.com/ranajitdharpersonal">
-    <img src="https://github-readme-stats.vercel.app/api?username=ranajitdharpersonal&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=1800" height="170" alt="Ranajit's Stats" />
-  </a>
-
-  <a href="https://github.com/ranajitdharpersonal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitdharpersonal&layout=compact&theme=synthwave&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages" />
-  </a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranajitdharpersonal&theme=tokyonight&hide_border=true&fire=FF4500&ring=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/ranajitdharpersonal/ranajitdharpersonal/graphs/contribution">
-    <img src="https://raw.githubusercontent.com/ranajitdharpersonal/ranajitdharpersonal/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+    <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
   </a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <h3>👀 Visitor Count</h3>
+  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=for-the-badge&color=0D1117&label=VIEWS&logo=github" alt="Profile Views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/ranajitdharpersonal/ranajitdharpersonal/graphs/contribution">
+    <img src="https://github.com/ranajitdharpersonal/ranajitdharpersonal/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranajitdharpersonal&style=flat-square&color=ff00ff&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 
 # 🔥 Projects
