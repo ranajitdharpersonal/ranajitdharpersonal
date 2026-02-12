@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hey there! I'm <a href="https://github.com/ranajitdharpersonal">Ranajit Dhar</a> 👨‍💻</h1>
+  <h1>Hi, I'm <a href="https://github.com/ranajitdharpersonal">Ranajit Dhar</a> — AI Engineer 👨‍💻</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Multi-Agent+Architect;Creator+of+YES+AI+Ecosystem;From+Commerce+to+Code;Google+Cloud+Certified+Developer;Building+Production-Grade+Agentic+Systems...;AI+Hackathon+Participant" alt="Typing SVG" />
