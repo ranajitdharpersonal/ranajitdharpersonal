@@ -15,7 +15,7 @@
     <a href="http://ranajit-dhar-portfolio.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/ranajit-dhar-personal">
+    <a href="www.linkedin.com/in/ranajit-dhar-dev">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
      </p>
