@@ -1,9 +1,9 @@
-name: Force Cyberpunk Laser
+name: Generate Fire Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Protidin raat 12 tay run korbe
-  workflow_dispatch:      # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,17 +15,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Forced Laser Animation
+      - name: Generate Burning Effect
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # EKHANE ASOL KAJ: Amra "palette" define kore dichi.
-          # GitHub ar nijer ichche moto color nite parbe na.
-          # color_snake = #00FFFF (Cyan Laser Head)
-          # color_dots = Background to Trail colors (Black -> Purple -> Pink)
+          
+          # EKHANE KHELA HOBE! 🔥
+          # color_snake = Matha (Sada/White Hot)
+          # color_dots = Background (Kalo), 
+          #              Level 1 (Maroon - Nive asche), 
+          #              Level 2 (Lal - Jolche), 
+          #              Level 3 (Orange - Gorom), 
+          #              Level 4 (Yellow - Agun)
+          
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00FFFF&color_dots=#0D1117,#240046,#3c096c,#5a189a,#7b2cbf
-            
+            dist/github-contribution-grid-snake.svg?color_snake=#FFFFFF&color_dots=#0D1117,#4a0404,#8a0808,#d63e09,#ffcc00
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFFFFF&color_dots=#0D1117,#4a0404,#8a0808,#d63e09,#ffcc00
+
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
