@@ -6,7 +6,7 @@
   <h1>Hey there! I'm <a href="https://github.com/ranajitdharpersonal">Ranajit Dhar</a> 👨‍💻</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Cloud+Architect;..Building+YES+Ai+Master+Edition...;From+Commerce+to+Code;Google+Cloud+Certified+Developer;..Architecting+Multi-Agent+Systems..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Cloud+Architect;..Building+YES+Ai+Master+Edition...;From+Commerce+to+Code;Google+Cloud+Certified+Developer;....Architecting+Multi-Agent+Systems..." alt="Typing SVG" />
   </a>
 
   <br/>
