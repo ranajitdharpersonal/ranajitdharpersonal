@@ -366,7 +366,7 @@
   <b>🚀 Ready to deploy the future? Let's collaborate.</b>
   <br/><br/>
 
-  <a href="mailto:ranajitdhar.dev@gmail.com">
+  <a href="mailto:contact@ranajitdhar.in">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -374,7 +374,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://ranajit-dhar-portfolio.vercel.app">
+  <a href="https://www.ranajitdhar.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
