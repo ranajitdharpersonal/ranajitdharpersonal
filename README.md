@@ -12,7 +12,7 @@
   <br/>
 
   <p>
-    <a href="http://ranajit-dhar-portfolio.vercel.app">
+    <a href="https://www.ranajitdhar.in">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
     </a>
     <a href="www.linkedin.com/in/ranajit-dhar-dev">
