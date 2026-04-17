@@ -112,7 +112,7 @@
 </p>
 </td>
 <td width="30%" align="center" valign="top">
-<img src="YOUR_ARCHITECTURE_DIAGRAM_LINK_HERE" alt="YES AI GitLab Architecture" width="280" style="border-radius: 10px;" />
+<img src="https://github.com/user-attachments/assets/fc9679e7-58d2-4dcf-a5ea-0d4f5c25380b" alt="YES AI GitLab Architecture" width="280" style="border-radius: 10px;" />
 <br/><br/>
 <a href="https://github.com/ranajitdharpersonal/yes-ai-gitlab-edition">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
