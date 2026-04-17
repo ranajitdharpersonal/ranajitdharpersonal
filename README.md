@@ -87,11 +87,16 @@
 
 <h2 align="center">🔥 Featured Projects</h2>
 
-
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
-<h3 style="margin-top: 0;">YES AI MASTER EDITION <br><span style="font-size: 16px; color: #FC6D26;">(GitLab Duo DevSecOps)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
+<td colspan="2" align="center" valign="top">
+<h3 style="margin-top: 0;">YES AI MASTER EDITION <span style="font-size: 16px; color: #FC6D26;">(GitLab Duo DevSecOps)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
+<img src="https://github.com/user-attachments/assets/fc9679e7-58d2-4dcf-a5ea-0d4f5c25380b" alt="YES AI GitLab Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="75%" valign="top">
 <p>A <b>Self-Healing, Multi-Agent AI Ecosystem</b> engineered for enterprise scale. Features native <b>DevSecOps</b> via <b>GitLab Duo</b> for dynamic code review and a 3-tier Auto-Failover Circuit Breaker to ensure zero-downtime.</p>
 <p><b>✨ 2026 Architect Capabilities:</b></p>
 <ul>
@@ -111,12 +116,11 @@
   <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 </td>
-<td width="30%" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/fc9679e7-58d2-4dcf-a5ea-0d4f5c25380b" alt="YES AI GitLab Architecture" width="280" style="border-radius: 10px;" />
-<br/><br/>
+<td width="25%" align="center" valign="middle">
 <a href="https://github.com/ranajitdharpersonal/yes-ai-gitlab-edition">
 <img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<br/><br/>
 <a href="https://yesai-master-edition-lab.streamlit.app">
 <img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
