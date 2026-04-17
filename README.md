@@ -90,7 +90,7 @@
 <table border="0" width="100%">
 <tr>
 <td colspan="2" align="center" valign="top">
-<h3 style="margin-top: 0;">YES AI MASTER EDITION <span style="font-size: 16px; color: #FC6D26;">(GitLab Duo DevSecOps)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
+<h3 style="margin-top: 0;">YES AI MASTER GITLAB EDITION <span style="font-size: 16px; color: #FC6D26;">(GitLab Duo DevSecOps)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
 <img src="https://github.com/user-attachments/assets/fc9679e7-58d2-4dcf-a5ea-0d4f5c25380b" alt="YES AI GitLab Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
 <br/><br/>
 </td>
