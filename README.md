@@ -87,6 +87,45 @@
 
 <h2 align="center">🔥 Featured Projects</h2>
 
+
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+<h3 style="margin-top: 0;">YES AI MASTER EDITION <br><span style="font-size: 16px; color: #FC6D26;">(GitLab Duo DevSecOps)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
+<p>A <b>Self-Healing, Multi-Agent AI Ecosystem</b> engineered for enterprise scale. Features native <b>DevSecOps</b> via <b>GitLab Duo</b> for dynamic code review and a 3-tier Auto-Failover Circuit Breaker to ensure zero-downtime.</p>
+<p><b>✨ 2026 Architect Capabilities:</b></p>
+<ul>
+<li>🦊 <b>DevSecOps Pipeline:</b> Automated security audits & dynamic code review intercepted by the GitLab Duo Agent.</li>
+<li>🤖 <b>Agentic Swarm Logic:</b> Autonomous Dev, Analyst, Creator, and Sentinel (Quantum-Ready Kyber-1024) modes working in sync.</li>
+<li>🔄 <b>Auto-Failover Circuit:</b> Seamless fallback routing across a universal brain (Gemini 3 → Llama 3 → Qwen).</li>
+<li>☁️ <b>Cloud-Native:</b> Fully containerized serverless architecture with auto-generated Dockerfiles.</li>
+</ul>
+<p><b>🔧 Enterprise Tech Stack:</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Gemini_3_Pro-Primary_Brain-8A2BE2?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_Duo-DevSecOps-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_3-Failover_Core-0052FF?style=flat-square&logo=meta&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Multi--Agent-Orchestration-FF6F00?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-UI_Engine-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+</td>
+<td width="30%" align="center" valign="top">
+<img src="YOUR_ARCHITECTURE_DIAGRAM_LINK_HERE" alt="YES AI GitLab Architecture" width="280" style="border-radius: 10px;" />
+<br/><br/>
+<a href="https://github.com/ranajitdharpersonal/yes-ai-gitlab-edition">
+<img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://yesai-master-edition-lab.streamlit.app">
+<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <table border="0" width="100%">
 <tr>
 <td width="30%" align="center">
