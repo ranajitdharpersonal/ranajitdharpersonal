@@ -18,6 +18,9 @@
     <a href="www.linkedin.com/in/ranajit-dhar-dev">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
+    <a href="mailto:contact@ranajitdhar.in">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
      </p>
 </div>
 
