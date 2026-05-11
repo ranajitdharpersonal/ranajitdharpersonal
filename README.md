@@ -90,6 +90,58 @@
 
 <h2 align="center">🔥 Featured Projects</h2>
 
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center" valign="top">
+<h3 style="margin-top: 0;">TRYNEXT AI <span style="font-size: 16px; color: #0ea5e9;">(Autonomous Voice-to-Software Factory)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
+<img src="https://github.com/ranajitdharpersonal/trynext-ai/blob/main/public/trynext-architecture.png?raw=true" alt="TryNext AI Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="middle">
+<a href="https://github.com/ranajitdharpersonal/trynext-ai">
+<img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://trynext-ai.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<br/><br/>
+<p align="center" style="font-size: 13px; color: #f59e0b; background-color: #fffbeb; border-radius: 5px; padding: 5px; border: 1px solid #fcd34d;">
+<b>🔒 Note:</b> Source code is temporarily private for an upcoming major Hackathon.
+</p>
+</td>
+<td width="75%" valign="top">
+<p>An <b>Autonomous, Self-Healing Software Factory</b> built for the "Next Billion Users." It completely eliminates the coding barrier by transforming natural voice commands (across 100+ local languages) into production-ready, full-stack Next.js applications natively deployed to the Vercel Edge.</p>
+<p><b>✨ Core Architectural Capabilities:</b></p>
+<ul>
+<li>🗣️ <b>Voice-to-App & Live Mod:</b> Speak your idea to build UI/Logic, and seamlessly modify the live application purely via continuous voice commands with TTS feedback.</li>
+<li>🤖 <b>Swarm Intelligence:</b> A 3-tier agentic pipeline (Manager ➔ Coder ➔ Evaluator) that reasons, builds, and runs strict QA loops to eliminate hallucinations.</li>
+<li>🛡️ <b>Unbreakable Auto-Failover:</b> Zero-downtime routing across multiple brains (Gemini 3 Pro → Groq Llama 3.3 → HF Qwen 2.5).</li>
+<li>💎 <b>AI Doctor (Self-Healing):</b> Continuous system monitoring that autonomously scans, generates, and pushes bug-fix PRs directly to GitHub.</li>
+<li>🌐 <b>Live Web Clone Engine:</b> Command the AI to extract UI patterns from live external websites and instantly inject them into your project.</li>
+<li>🚀 <b>One-Click Public Launch:</b> Push the generated application from the local sandbox directly to a live Vercel URL in seconds.</li>
+</ul>
+<p><b>🔧 Enterprise Tech Stack:</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Gemini_3_Pro-Primary_Brain-8A2BE2?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_Llama_3.3-Failover-F56565?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js_15-Frontend_Engine-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Multi--Agent-Swarm_Logic-FF6F00?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_Edge-One--Click_Deploy-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+
 <table border="0" width="100%">
 <tr>
 <td colspan="2" align="center" valign="top">
