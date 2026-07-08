@@ -180,6 +180,10 @@
 <img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <br/><br/>
+<a href="https://youtu.be/wc8boKYAQRE">
+<img src="https://img.shields.io/badge/Watch_Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<br/><br/>
 <p align="center" style="font-size: 13px; color: #f59e0b; background-color: #fffbeb; border-radius: 5px; padding: 5px; border: 1px solid #fcd34d;">
 </p>
 </td>
