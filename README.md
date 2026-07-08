@@ -94,6 +94,62 @@
 <table border="0" width="100%">
 <tr>
 <td colspan="2" align="center" valign="top">
+<h3 style="margin-top: 0;">CHAYRA AI <span style="font-size: 16px; color: #ef4444;">(Autonomous Crisis Response Swarm)</span> <img src="https://img.shields.io/badge/MISSION_CRITICAL-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
+<!-- Note: GitHub theke apnar architecture image er direct link ekhane replace kore neben -->
+<img src="https://github.com/ranajitdharpersonal/chayra-ai/raw/main/public/architecture.png" alt="ChayRa AI Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<!-- LEFT SIDE: TEXT (75%) -->
+<td width="75%" valign="top">
+<p><b>ChayRa AI</b> is not just a chatbot. It is an autonomous, hyper-local crisis response swarm[cite: 4]. We are building the ultimate digital safety net for zero-hour emergencies, turning panicked, multilingual voice commands into coordinated survival intelligence[cite: 4].</p>
+<p><b>✨ Core Architectural Capabilities:</b></p>
+<ul>
+<li>🎙️ <b>Polyglot Voice-to-Action Protocol:</b> Built-in military-grade voice command processing[cite: 4]. Victims can speak naturally in extreme stress (100+ Local Languages), and the system autonomously decodes, translates, and triggers the rescue swarm[cite: 4].</li>
+<li>🗺️ <b>25km Tactical Routing (Navigator):</b> Automatically scans a 25km radius via OpenStreetMap to pinpoint verified hospitals, civilian shelters, or military bunkers, generating a secure evacuation route from the user's live location[cite: 4].</li>
+<li>⚕️ <b>Live AI Triage (Medical Agent):</b> Instantly analyzes trauma context to generate life-saving first-aid steps and medication suggestions[cite: 4]. Features a robust offline fallback lifeline protocol if connectivity drops[cite: 4].</li>
+<li>🔌 <b>3-Tier Auto-Failover Circuit Breaker:</b> Robust backend logic ensures that if the primary LLM brain fails or hallucinates, the system seamlessly falls back to a secondary module or a "Trust-User" default state(Gemini 3 Pro ➔ Groq Llama 3 ➔ HF Qwen)[cite: 4]. False negatives are fatal in emergencies, so ChayRa guarantees uninterrupted execution[cite: 4].</li>
+<li>📍 <b>Tactical Pin Drop & Live GPS:</b> Victims can transmit their live location via secure GPS handshakes or utilize the "Drop Pin" feature on a tactical map when GPS is spoofed or compromised[cite: 4].</li>
+<li>💾 <b>Partner Integration (MongoDB MCP):</b> The Vault Agent autonomously connects to the MongoDB Model Context Protocol (MCP) to securely log and encrypt emergency victim data (Threat Level, Location, Circuit Status) as a secure backend crisis-registry[cite: 4].</li>
+<li>🔍 <b>Live Rumor Verification:</b> A dedicated intel search bar allows victims to instantly fact-check local news and dispel panic-inducing misinformation during the chaos of a crisis[cite: 4].</li>
+<li>🛡️ <b>Offline-First Mesh Network (Vault Agent):</b> Generates secure alphanumeric emergency beacons[cite: 4]. While this prototype currently simulates the rescue beacon workflow, the architecture is explicitly designed for future offline peer-to-peer communication through Bluetooth mesh and WiFi Direct when traditional cell towers collapse[cite: 4].</li>
+<li>💻 <b>Glassmorphism Tactical Console:</b> A premium, dark-themed, military-grade UI with dynamic glow states, real-time latency tracking, and autonomous agent processing indicators[cite: 4].</li>
+</ul>
+<p><b>🔧 Enterprise Tech Stack:</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Gemini_3_Pro-Primary_Brain-8A2BE2?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_Llama_3-Failover-F56565?style=flat-square" />
+  <img src="https://img.shields.io/badge/HF_Qwen_2.5-Survival-FF9D00?style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js_15-UI_Console-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_MCP-Backend-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_Edge-Deployment-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+</td>
+<!-- RIGHT SIDE: BUTTONS (25%) ZIG-ZAG PATTERN -->
+<td width="25%" align="center" valign="middle">
+<a href="https://github.com/ranajitdharpersonal/chayra-ai">
+<img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://chayra.ranajitdhar.in">
+<img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://youtu.be/o96lhMEYhxM">
+<img src="https://img.shields.io/badge/Watch_Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center" valign="top">
 <h3 style="margin-top: 0;">TRYNEXT AI <span style="font-size: 16px; color: #0ea5e9;">(Autonomous Voice-to-Software Factory)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
 <img src="https://github.com/user-attachments/assets/02d4593b-0004-4cb7-89f2-8ac44020b180" alt="TryNext AI Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
 <br/><br/>
