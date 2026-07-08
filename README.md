@@ -103,18 +103,18 @@
 <tr>
 <!-- LEFT SIDE: TEXT (75%) -->
 <td width="75%" valign="top">
-<p><b>ChayRa AI</b> is not just a chatbot. It is an autonomous, hyper-local crisis response swarm[cite: 4]. We are building the ultimate digital safety net for zero-hour emergencies, turning panicked, multilingual voice commands into coordinated survival intelligence[cite: 4].</p>
+<p><b>ChayRa AI</b> is not just a chatbot. It is an autonomous, hyper-local crisis response swarm. We are building the ultimate digital safety net for zero-hour emergencies, turning panicked, multilingual voice commands into coordinated survival intelligence.</p>
 <p><b>✨ Core Architectural Capabilities:</b></p>
 <ul>
-<li>🎙️ <b>Polyglot Voice-to-Action Protocol:</b> Built-in military-grade voice command processing[cite: 4]. Victims can speak naturally in extreme stress (100+ Local Languages), and the system autonomously decodes, translates, and triggers the rescue swarm[cite: 4].</li>
-<li>🗺️ <b>25km Tactical Routing (Navigator):</b> Automatically scans a 25km radius via OpenStreetMap to pinpoint verified hospitals, civilian shelters, or military bunkers, generating a secure evacuation route from the user's live location[cite: 4].</li>
-<li>⚕️ <b>Live AI Triage (Medical Agent):</b> Instantly analyzes trauma context to generate life-saving first-aid steps and medication suggestions[cite: 4]. Features a robust offline fallback lifeline protocol if connectivity drops[cite: 4].</li>
-<li>🔌 <b>3-Tier Auto-Failover Circuit Breaker:</b> Robust backend logic ensures that if the primary LLM brain fails or hallucinates, the system seamlessly falls back to a secondary module or a "Trust-User" default state(Gemini 3 Pro ➔ Groq Llama 3 ➔ HF Qwen)[cite: 4]. False negatives are fatal in emergencies, so ChayRa guarantees uninterrupted execution[cite: 4].</li>
-<li>📍 <b>Tactical Pin Drop & Live GPS:</b> Victims can transmit their live location via secure GPS handshakes or utilize the "Drop Pin" feature on a tactical map when GPS is spoofed or compromised[cite: 4].</li>
-<li>💾 <b>Partner Integration (MongoDB MCP):</b> The Vault Agent autonomously connects to the MongoDB Model Context Protocol (MCP) to securely log and encrypt emergency victim data (Threat Level, Location, Circuit Status) as a secure backend crisis-registry[cite: 4].</li>
-<li>🔍 <b>Live Rumor Verification:</b> A dedicated intel search bar allows victims to instantly fact-check local news and dispel panic-inducing misinformation during the chaos of a crisis[cite: 4].</li>
-<li>🛡️ <b>Offline-First Mesh Network (Vault Agent):</b> Generates secure alphanumeric emergency beacons[cite: 4]. While this prototype currently simulates the rescue beacon workflow, the architecture is explicitly designed for future offline peer-to-peer communication through Bluetooth mesh and WiFi Direct when traditional cell towers collapse[cite: 4].</li>
-<li>💻 <b>Glassmorphism Tactical Console:</b> A premium, dark-themed, military-grade UI with dynamic glow states, real-time latency tracking, and autonomous agent processing indicators[cite: 4].</li>
+<li>🎙️ <b>Polyglot Voice-to-Action Protocol:</b> Built-in military-grade voice command processing. Victims can speak naturally in extreme stress (100+ Local Languages), and the system autonomously decodes, translates, and triggers the rescue swarm.</li>
+<li>🗺️ <b>25km Tactical Routing (Navigator):</b> Automatically scans a 25km radius via OpenStreetMap to pinpoint verified hospitals, civilian shelters, or military bunkers, generating a secure evacuation route from the user's live location.</li>
+<li>⚕️ <b>Live AI Triage (Medical Agent):</b> Instantly analyzes trauma context to generate life-saving first-aid steps and medication suggestions. Features a robust offline fallback lifeline protocol if connectivity drops.</li>
+<li>🔌 <b>3-Tier Auto-Failover Circuit Breaker:</b> Robust backend logic ensures that if the primary LLM brain fails or hallucinates, the system seamlessly falls back to a secondary module or a "Trust-User" default state(Gemini 3 Pro ➔ Groq Llama 3 ➔ HF Qwen). False negatives are fatal in emergencies, so ChayRa guarantees uninterrupted execution.</li>
+<li>📍 <b>Tactical Pin Drop & Live GPS:</b> Victims can transmit their live location via secure GPS handshakes or utilize the "Drop Pin" feature on a tactical map when GPS is spoofed or compromised.</li>
+<li>💾 <b>Partner Integration (MongoDB MCP):</b> The Vault Agent autonomously connects to the MongoDB Model Context Protocol (MCP) to securely log and encrypt emergency victim data (Threat Level, Location, Circuit Status) as a secure backend crisis-registry.</li>
+<li>🔍 <b>Live Rumor Verification:</b> A dedicated intel search bar allows victims to instantly fact-check local news and dispel panic-inducing misinformation during the chaos of a crisis.</li>
+<li>🛡️ <b>Offline-First Mesh Network (Vault Agent):</b> Generates secure alphanumeric emergency beacons. While this prototype currently simulates the rescue beacon workflow, the architecture is explicitly designed for future offline peer-to-peer communication through Bluetooth mesh and WiFi Direct when traditional cell towers collapse.</li>
+<li>💻 <b>Glassmorphism Tactical Console:</b> A premium, dark-themed, military-grade UI with dynamic glow states, real-time latency tracking, and autonomous agent processing indicators.</li>
 </ul>
 <p><b>🔧 Enterprise Tech Stack:</b></p>
 <p>
