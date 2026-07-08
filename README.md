@@ -384,61 +384,34 @@
 </tr>
 </table>
 
-<h2 align="center">🏆 Hackathon Hall of Fame</h2>
 
-<h3>🚀 2026: The Year of Agents</h3>
+
+
+<h2 align="center">🏆 Hackathon Hall of Fame (Top Achievements)</h2>
+
 <ul>
   <li>
-    <img src="https://img.shields.io/badge/Google_Gemini_3_Hackathon-Developer_Competition-4285F4?style=flat-square&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Frostbyte_Hackathon_2026-Theme_Award_Winner-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+    <br/>
+    <b>Achievement:</b> 👑 <b>Theme-Based Award Winner</b> for architecting a highly resilient AI workforce.
+    <br/>
+    <b>Project:</b> <i>YES AI MASTER (Analyst Mode)</i> — Real-time data synthesis and gitlab integration.
+  </li>
+  <br/>
+  <li>
+    <img src="https://img.shields.io/badge/Google_Gemini_3_Hackathon-Grand_Finalist-4285F4?style=flat-square&logo=google&logoColor=white" />
+    <br/>
+    <b>Achievement:</b> 🌟 Advanced past the technical viability stage, standing out among <b>35,000+ participants</b> and <b>4,500+ global project submissions</b>.
     <br/>
     <b>Project:</b> <i>YES AI MASTER EDITION</i> — Leveraged Gemini 3.0 Pro's 2M context window for a self-healing OS.
   </li>
   <br/>
   <li>
-    <img src="https://img.shields.io/badge/GitLab_AI-Hackathon-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tuya_AI_Innovators_Hackathon-Final_Round-FF5900?style=flat-square&logo=tuya&logoColor=white" />
     <br/>
-    <b>Project:</b> <i>YES AI MASTER EDITION</i> — demonstrated automated CI/CD pipeline generation and Docker containerization.
-  </li>
-  <br/>
-  <li>
-    <img src="https://img.shields.io/badge/Lablab.ai-Complete_AI_Hackathon-000000?style=flat-square&logo=robotframework&logoColor=white" />
+    <b>Achievement:</b> 🎯 <b>Advanced to the Final Round.</b>
     <br/>
-    <b>Project:</b> <i>YES AI MASTER EDITION</i> — Built a fully autonomous multi-agent content creation pipeline.
-  </li>
-  <br/>
-  <li>
-    <img src="https://img.shields.io/badge/Frostbyte_Hackathon-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-    <br/>
-    <b>Project:</b> <i>YES AI MASTER (Analyst Mode)</i> — Real-time data synthesis using Snowflake and Streamlit integration.
-  </li>
-</ul>
-
-<h3>🏅 2025: Foundation & Innovation</h3>
-<ul>
-  <li>
-    <img src="https://img.shields.io/badge/Google_Cloud-Run_Hackathon-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-    <br/>
-    Demonstrated scalable cloud deployment and containerized AI solutions.
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Google_Chrome_Built_In_AI_Challenge-2025--in_AI-FFCC00?style=flat-square&logo=google-chrome&logoColor=black" />
-    <br/>
-    Showcased browser-integrated AI capabilities (Gemini Nano) for seamless user experiences.
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Google_AI_Accelerate-New_Frontiers-34A853?style=flat-square&logo=google&logoColor=white" />
-    <br/>
-    Highlighted advanced generative AI features and real-world applications.
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Kaggle-Agents_Intensive-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-    <br/>
-    <b>Capstone:</b> <i>YES Ai Studio</i> — Created a multi-agent system for automated research.
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Tuya_AI_Innovators-IoT_Hackathon-FF5900?style=flat-square&logo=tuya&logoColor=white" />
-    <br/>
-    Developed a Multi-Agent system that autonomously controls Smart Lighting based on creativity scores.
+    <b>Project:</b> <i>YES AI Studio (IoT Edition)</i> — Developed an autonomous AI workflow for smart hardware orchestration.
   </li>
 </ul>
 <br/>
