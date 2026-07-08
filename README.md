@@ -110,7 +110,6 @@
 </a>
 <br/><br/>
 <p align="center" style="font-size: 13px; color: #f59e0b; background-color: #fffbeb; border-radius: 5px; padding: 5px; border: 1px solid #fcd34d;">
-<b>🔒 Note:</b> Source code is temporarily private for an upcoming major Hackathon.
 </p>
 </td>
 <td width="75%" valign="top">
