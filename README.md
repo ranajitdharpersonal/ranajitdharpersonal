@@ -110,7 +110,7 @@
 <tr>
 <td colspan="2" align="center" valign="top">
 <h3 style="margin-top: 0;">RDAI <span style="font-size: 16px; color: #8b5cf6;">(Multi-Brain AI Orchestrator)</span> <img src="https://img.shields.io/badge/OPEN_SOURCE-8B5CF6?style=flat-square&logo=python&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
-<img src="YOUR_ISSUE_IMAGE_LINK_HERE" alt="rdai Live Provider Diagnostics" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
+<img src="https://github.com/user-attachments/assets/ec0ddd49-bdf9-41d3-b348-feda232cf751" alt="rdai Live Provider Diagnostics" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
 <br/><br/>
 </td>
 </tr>
