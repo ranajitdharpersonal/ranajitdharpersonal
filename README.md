@@ -1,6 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="720" height="260"/>
+  <img
+    src="https://raw.githubusercontent.com/ranajitdharpersonal/ranajitdharpersonal/main/assets/hero.svg"
+    width="100%"
+    alt="Ranajit Dhar — GenAI Engineer & AI Systems Architect"
+  />
 </div>
+
+<br/>
+<br/>
 
 <div align="center">
   <h1>Hi, I'm <a href="https://github.com/ranajitdharpersonal">Ranajit Dhar</a> — GenAI Engineer 👨‍💻</h1>
