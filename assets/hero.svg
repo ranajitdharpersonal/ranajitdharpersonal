@@ -261,26 +261,19 @@
 
 
   <!-- ================================================= -->
-  <!-- SPACE BEFORE PIPELINE -->
-  <!-- ================================================= -->
-
-  <!-- intentionally empty breathing area -->
-
-
-  <!-- ================================================= -->
   <!-- PIPELINE BACKBONE -->
   <!-- ================================================= -->
 
-  <line x1="105"
+  <line x1="95"
         y1="340"
-        x2="1095"
+        x2="1105"
         y2="340"
         stroke="#1B2539"
         stroke-width="4"/>
 
-  <line x1="105"
+  <line x1="95"
         y1="340"
-        x2="1095"
+        x2="1105"
         y2="340"
         stroke="url(#accent)"
         stroke-width="2"
@@ -289,7 +282,7 @@
 
     <animate attributeName="stroke-dashoffset"
              from="0"
-             to="-200"
+             to="-210"
              dur="3s"
              repeatCount="indefinite"/>
 
@@ -302,16 +295,16 @@
 
   <g>
 
-    <rect x="55"
+    <rect x="45"
           y="292"
-          width="185"
+          width="180"
           height="96"
           rx="15"
           fill="#080D18"
           stroke="#2A3650"
           stroke-width="1.6"/>
 
-    <text x="147.5"
+    <text x="135"
           y="320"
           text-anchor="middle"
           fill="#71809F"
@@ -324,7 +317,7 @@
 
     </text>
 
-    <text x="147.5"
+    <text x="135"
           y="356"
           text-anchor="middle"
           fill="#F1F5F9"
@@ -336,7 +329,7 @@
 
     </text>
 
-    <circle cx="240"
+    <circle cx="225"
             cy="340"
             r="6"
             fill="#22E0E0"
@@ -358,16 +351,16 @@
 
   <g>
 
-    <rect x="275"
+    <rect x="260"
           y="292"
-          width="185"
+          width="180"
           height="96"
           rx="15"
           fill="#080D18"
           stroke="#2A3650"
           stroke-width="1.6"/>
 
-    <text x="367.5"
+    <text x="350"
           y="320"
           text-anchor="middle"
           fill="#71809F"
@@ -380,7 +373,7 @@
 
     </text>
 
-    <text x="367.5"
+    <text x="350"
           y="356"
           text-anchor="middle"
           fill="#F1F5F9"
@@ -396,14 +389,14 @@
 
 
   <!-- ================================================= -->
-  <!-- CONTROL CORE -->
+  <!-- WIDER CONTROL CORE -->
   <!-- ================================================= -->
 
   <g>
 
-    <rect x="485"
+    <rect x="455"
           y="270"
-          width="230"
+          width="290"
           height="140"
           rx="20"
           fill="#0A0F1F"
@@ -442,7 +435,7 @@
             fill="#070B14"
             stroke="#8B5CF6"
             stroke-width="2"
-            filter="url(#glow"/>
+            filter="url(#glow)"/>
 
 
     <circle cx="600"
@@ -464,9 +457,9 @@
           text-anchor="middle"
           fill="#F8FAFC"
           font-family="ui-monospace,Menlo,monospace"
-          font-size="13.5"
+          font-size="14"
           font-weight="700"
-          letter-spacing="2.2">
+          letter-spacing="2.1">
 
       AI ROUTER / CONTROL CORE
 
@@ -474,11 +467,11 @@
 
 
     <text x="600"
-          y="386"
+          y="388"
           text-anchor="middle"
           fill="#75819A"
           font-family="ui-monospace,Menlo,monospace"
-          font-size="11"
+          font-size="11.5"
           font-weight="600"
           letter-spacing="1.5">
 
@@ -495,16 +488,16 @@
 
   <g>
 
-    <rect x="740"
+    <rect x="760"
           y="292"
-          width="185"
+          width="180"
           height="96"
           rx="15"
           fill="#080D18"
           stroke="#2A3650"
           stroke-width="1.6"/>
 
-    <text x="832.5"
+    <text x="850"
           y="320"
           text-anchor="middle"
           fill="#71809F"
@@ -517,7 +510,7 @@
 
     </text>
 
-    <text x="832.5"
+    <text x="850"
           y="356"
           text-anchor="middle"
           fill="#F1F5F9"
@@ -538,16 +531,16 @@
 
   <g>
 
-    <rect x="960"
+    <rect x="975"
           y="292"
-          width="185"
+          width="180"
           height="96"
           rx="15"
           fill="#080D18"
           stroke="#2A3650"
           stroke-width="1.6"/>
 
-    <text x="1052.5"
+    <text x="1065"
           y="320"
           text-anchor="middle"
           fill="#71809F"
@@ -560,7 +553,7 @@
 
     </text>
 
-    <text x="1052.5"
+    <text x="1065"
           y="356"
           text-anchor="middle"
           fill="#F1F5F9"
@@ -572,7 +565,7 @@
 
     </text>
 
-    <circle cx="960"
+    <circle cx="975"
             cy="340"
             r="6"
             fill="#D946EF"
@@ -599,7 +592,7 @@
 
     <animateMotion dur="4s"
                    repeatCount="indefinite"
-                   path="M105 340 L1095 340"/>
+                   path="M95 340 L1105 340"/>
 
   </circle>
 
@@ -611,7 +604,7 @@
     <animateMotion dur="4s"
                    begin="1.4s"
                    repeatCount="indefinite"
-                   path="M105 340 L1095 340"/>
+                   path="M95 340 L1105 340"/>
 
   </circle>
 
@@ -623,7 +616,7 @@
     <animateMotion dur="4s"
                    begin="2.6s"
                    repeatCount="indefinite"
-                   path="M105 340 L1095 340"/>
+                   path="M95 340 L1105 340"/>
 
   </circle>
 
@@ -633,7 +626,7 @@
   <!-- ================================================= -->
 
   <rect x="70"
-        y="435"
+        y="430"
         width="1060"
         height="72"
         rx="16"
@@ -643,7 +636,7 @@
 
 
   <text x="175"
-        y="479"
+        y="474"
         text-anchor="middle"
         fill="#22E0E0"
         font-family="ui-monospace,Menlo,monospace"
@@ -657,7 +650,7 @@
 
 
   <text x="390"
-        y="479"
+        y="474"
         text-anchor="middle"
         fill="#A5B4FC"
         font-family="ui-monospace,Menlo,monospace"
@@ -671,7 +664,7 @@
 
 
   <text x="600"
-        y="479"
+        y="474"
         text-anchor="middle"
         fill="#C4B5FD"
         font-family="ui-monospace,Menlo,monospace"
@@ -684,8 +677,8 @@
   </text>
 
 
-  <text x="820"
-        y="479"
+  <text x="815"
+        y="474"
         text-anchor="middle"
         fill="#67E8F9"
         font-family="ui-monospace,Menlo,monospace"
@@ -699,7 +692,7 @@
 
 
   <text x="1030"
-        y="479"
+        y="474"
         text-anchor="middle"
         fill="#F0ABFC"
         font-family="ui-monospace,Menlo,monospace"
@@ -717,10 +710,10 @@
   <g stroke="#1E293B"
      stroke-width="1">
 
-    <line x1="285" y1="450" x2="285" y2="492"/>
-    <line x1="495" y1="450" x2="495" y2="492"/>
-    <line x1="705" y1="450" x2="705" y2="492"/>
-    <line x1="925" y1="450" x2="925" y2="492"/>
+    <line x1="285" y1="446" x2="285" y2="486"/>
+    <line x1="495" y1="446" x2="495" y2="486"/>
+    <line x1="705" y1="446" x2="705" y2="486"/>
+    <line x1="925" y1="446" x2="925" y2="486"/>
 
   </g>
 
