@@ -1,159 +1,705 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420"
+<svg width="1200" height="460" viewBox="0 0 1200 460"
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+
+    <!-- Accent gradient -->
+    <linearGradient id="accent"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22e0e0"/>
       <stop offset="50%" stop-color="#8B5CF6"/>
       <stop offset="100%" stop-color="#D946EF"/>
     </linearGradient>
 
-    <linearGradient id="accentSoft" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="accentSoft"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22e0e0" stop-opacity="0.85"/>
       <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.85"/>
       <stop offset="100%" stop-color="#D946EF" stop-opacity="0.85"/>
     </linearGradient>
 
-    <radialGradient id="ambient" cx="50%" cy="38%" r="75%">
+    <!-- Background glow -->
+    <radialGradient id="ambient"
+                    cx="50%" cy="38%" r="75%">
       <stop offset="0%" stop-color="#3B2E81" stop-opacity="0.20"/>
       <stop offset="55%" stop-color="#111827" stop-opacity="0.05"/>
       <stop offset="100%" stop-color="#05070D" stop-opacity="0"/>
     </radialGradient>
 
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#161C2C" stroke-width="1" opacity="0.5"/>
+    <!-- Grid -->
+    <pattern id="grid"
+             width="30"
+             height="30"
+             patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30"
+            fill="none"
+            stroke="#161C2C"
+            stroke-width="1"
+            opacity="0.5"/>
     </pattern>
 
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <!-- Glow -->
+    <filter id="glow"
+            x="-100%"
+            y="-100%"
+            width="300%"
+            height="300%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
 
-    <filter id="softGlow" x="-150%" y="-150%" width="400%" height="400%">
+    <filter id="softGlow"
+            x="-150%"
+            y="-150%"
+            width="400%"
+            height="400%">
       <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
+
   </defs>
 
-  <!-- BACKGROUND -->
-  <rect width="1200" height="420" rx="26" fill="#05070D"/>
-  <rect width="1200" height="420" rx="26" fill="url(#ambient)"/>
-  <rect width="1200" height="420" rx="26" fill="url(#grid)" opacity="0.4"/>
 
-  <!-- ambient stars -->
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
+
+  <rect width="1200"
+        height="460"
+        rx="28"
+        fill="#05070D"/>
+
+  <rect width="1200"
+        height="460"
+        rx="28"
+        fill="url(#ambient)"/>
+
+  <rect width="1200"
+        height="460"
+        rx="28"
+        fill="url(#grid)"
+        opacity="0.42"/>
+
+
+  <!-- Ambient particles -->
   <g fill="#8B93B8">
-    <circle cx="95" cy="90" r="1.1" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.5s" repeatCount="indefinite"/></circle>
-    <circle cx="1120" cy="120" r="1.1" opacity="0.4"><animate attributeName="opacity" values="0.6;0.15;0.6" dur="5.5s" repeatCount="indefinite"/></circle>
-    <circle cx="1080" cy="70" r="1" opacity="0.5"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="3.8s" repeatCount="indefinite"/></circle>
-    <circle cx="60" cy="150" r="1" opacity="0.4"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="6s" repeatCount="indefinite"/></circle>
+
+    <circle cx="90" cy="92" r="1.1" opacity="0.45">
+      <animate attributeName="opacity"
+               values="0.12;0.7;0.12"
+               dur="4.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1110" cy="105" r="1.1" opacity="0.4">
+      <animate attributeName="opacity"
+               values="0.55;0.12;0.55"
+               dur="5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1060" cy="78" r="1" opacity="0.45">
+      <animate attributeName="opacity"
+               values="0.2;0.65;0.2"
+               dur="3.7s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="62" cy="160" r="1" opacity="0.4">
+      <animate attributeName="opacity"
+               values="0.5;0.1;0.5"
+               dur="6s"
+               repeatCount="indefinite"/>
+    </circle>
+
   </g>
 
+
+  <!-- ================================================= -->
   <!-- TOP BAR -->
-  <text x="42" y="45" fill="#6B7593" font-family="ui-monospace,Menlo,monospace" font-size="11" letter-spacing="2">RANAJIT.AI / CONTROL_PLANE</text>
+  <!-- ================================================= -->
 
-  <circle cx="264" cy="41" r="4" fill="#22E0E0" filter="url(#glow)">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-
-  <text x="1158" y="45" text-anchor="end" fill="#576079" font-family="ui-monospace,Menlo,monospace" font-size="10" letter-spacing="1.5">
-    SYSTEM ONLINE
-    <animate attributeName="fill" values="#576079;#22E0E0;#576079" dur="4s" repeatCount="indefinite"/>
+  <text x="42"
+        y="45"
+        fill="#6B7593"
+        font-family="ui-monospace,Menlo,monospace"
+        font-size="11"
+        letter-spacing="2">
+    RANAJIT.AI / CONTROL_PLANE
   </text>
 
+  <circle cx="266"
+          cy="41"
+          r="4"
+          fill="#22E0E0"
+          filter="url(#glow)">
+
+    <animate attributeName="opacity"
+             values="1;0.25;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+  </circle>
+
+  <text x="1158"
+        y="45"
+        text-anchor="end"
+        fill="#576079"
+        font-family="ui-monospace,Menlo,monospace"
+        font-size="10"
+        letter-spacing="1.5">
+
+    SYSTEM ACTIVE
+
+    <animate attributeName="fill"
+             values="#576079;#22E0E0;#576079"
+             dur="4s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- ================================================= -->
   <!-- MAIN IDENTITY -->
-  <text x="600" y="97" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="2.5">RANAJIT DHAR</text>
+  <!-- ================================================= -->
 
-  <text x="600" y="127" text-anchor="middle" fill="url(#accent)" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3.5">GENAI ENGINEER · AI SYSTEMS ARCHITECT</text>
+  <text x="600"
+        y="110"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="58"
+        font-weight="700"
+        letter-spacing="3">
 
-  <text x="600" y="153" text-anchor="middle" fill="#8792AD" font-family="Arial,Helvetica,sans-serif" font-size="13.5">Building resilient AI infrastructure, multi-agent systems</text>
-  <text x="600" y="172" text-anchor="middle" fill="#8792AD" font-family="Arial,Helvetica,sans-serif" font-size="13.5">&amp; production-oriented GenAI applications — solo, end to end.</text>
+    RANAJIT DHAR
 
-  <!-- PIPELINE BACKBONE -->
-  <line x1="130" y1="252" x2="1070" y2="252" stroke="#1B2338" stroke-width="2"/>
-  <line x1="130" y1="252" x2="1070" y2="252" stroke="url(#accent)" stroke-width="1.5" stroke-dasharray="10 22" opacity="0.5">
-    <animate attributeName="stroke-dashoffset" from="0" to="-192" dur="3.2s" repeatCount="indefinite"/>
+  </text>
+
+
+  <line x1="335"
+        y1="135"
+        x2="865"
+        y2="135"
+        stroke="url(#accent)"
+        stroke-width="2"
+        opacity="0.72"/>
+
+
+  <circle cx="600"
+          cy="135"
+          r="5"
+          fill="#22E0E0"
+          filter="url(#glow)">
+
+    <animate attributeName="r"
+             values="4;8;4"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+    <animate attributeName="opacity"
+             values="1;0.3;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <text x="600"
+        y="174"
+        text-anchor="middle"
+        fill="url(#accent)"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="21"
+        font-weight="700"
+        letter-spacing="3.5">
+
+    GENAI ENGINEER · AI SYSTEMS ARCHITECT
+
+  </text>
+
+
+  <text x="600"
+        y="202"
+        text-anchor="middle"
+        fill="#8A95AF"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="13.5">
+
+    Building resilient AI infrastructure, multi-agent systems
+
+  </text>
+
+  <text x="600"
+        y="223"
+        text-anchor="middle"
+        fill="#8A95AF"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="13.5">
+
+    &amp; cloud-deployed GenAI solutions.
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- SYSTEM PIPELINE -->
+  <!-- ================================================= -->
+
+  <!-- Backbone -->
+  <line x1="130"
+        y1="285"
+        x2="1070"
+        y2="285"
+        stroke="#1B2338"
+        stroke-width="2"/>
+
+  <line x1="130"
+        y1="285"
+        x2="1070"
+        y2="285"
+        stroke="url(#accent)"
+        stroke-width="1.5"
+        stroke-dasharray="10 22"
+        opacity="0.5">
+
+    <animate attributeName="stroke-dashoffset"
+             from="0"
+             to="-192"
+             dur="3.2s"
+             repeatCount="indefinite"/>
+
   </line>
 
+
+  <!-- ================================================= -->
   <!-- INPUT -->
+  <!-- ================================================= -->
+
   <g>
-    <rect x="82" y="216" width="150" height="72" rx="12" fill="#080D18" stroke="#263149"/>
-    <text x="157" y="239" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.8">INPUT</text>
-    <text x="157" y="264" text-anchor="middle" fill="#E7ECF7" font-family="Arial" font-size="16" font-weight="600">Prompt</text>
-    <circle cx="232" cy="252" r="5" fill="#22E0E0" filter="url(#glow)">
-      <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+
+    <rect x="82"
+          y="249"
+          width="150"
+          height="72"
+          rx="12"
+          fill="#080D18"
+          stroke="#263149"/>
+
+    <text x="157"
+          y="272"
+          text-anchor="middle"
+          fill="#6B7593"
+          font-family="ui-monospace,monospace"
+          font-size="10"
+          letter-spacing="1.8">
+
+      INPUT
+
+    </text>
+
+    <text x="157"
+          y="298"
+          text-anchor="middle"
+          fill="#E7ECF7"
+          font-family="Arial"
+          font-size="16"
+          font-weight="600">
+
+      Prompt
+
+    </text>
+
+    <circle cx="232"
+            cy="285"
+            r="5"
+            fill="#22E0E0"
+            filter="url(#glow)">
+
+      <animate attributeName="r"
+               values="4;8;4"
+               dur="2s"
+               repeatCount="indefinite"/>
+
     </circle>
+
   </g>
 
+
+  <!-- ================================================= -->
   <!-- REASON -->
+  <!-- ================================================= -->
+
   <g>
-    <rect x="275" y="216" width="150" height="72" rx="12" fill="#080D18" stroke="#263149"/>
-    <text x="350" y="239" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.8">REASON</text>
-    <text x="350" y="264" text-anchor="middle" fill="#E7ECF7" font-family="Arial" font-size="16" font-weight="600">Agents</text>
+
+    <rect x="275"
+          y="249"
+          width="150"
+          height="72"
+          rx="12"
+          fill="#080D18"
+          stroke="#263149"/>
+
+    <text x="350"
+          y="272"
+          text-anchor="middle"
+          fill="#6B7593"
+          font-family="ui-monospace,monospace"
+          font-size="10"
+          letter-spacing="1.8">
+
+      REASON
+
+    </text>
+
+    <text x="350"
+          y="298"
+          text-anchor="middle"
+          fill="#E7ECF7"
+          font-family="Arial"
+          font-size="16"
+          font-weight="600">
+
+      Agents
+
+    </text>
+
   </g>
 
+
+  <!-- ================================================= -->
   <!-- ROUTER CORE -->
+  <!-- ================================================= -->
+
   <g>
-    <rect x="466" y="196" width="268" height="108" rx="18" fill="#0A0F1F" stroke="url(#accent)" stroke-width="1.5"/>
 
-    <circle cx="600" cy="246" r="20" fill="none" stroke="url(#accentSoft)" stroke-width="1" opacity="0.6">
-      <animate attributeName="r" values="18;26;18" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.6;0.05;0.6" dur="3s" repeatCount="indefinite"/>
+    <rect x="466"
+          y="229"
+          width="268"
+          height="112"
+          rx="18"
+          fill="#0A0F1F"
+          stroke="url(#accent)"
+          stroke-width="1.5"/>
+
+    <!-- outer pulse -->
+    <circle cx="600"
+            cy="279"
+            r="20"
+            fill="none"
+            stroke="url(#accentSoft)"
+            stroke-width="1"
+            opacity="0.65">
+
+      <animate attributeName="r"
+               values="18;28;18"
+               dur="3s"
+               repeatCount="indefinite"/>
+
+      <animate attributeName="opacity"
+               values="0.6;0.05;0.6"
+               dur="3s"
+               repeatCount="indefinite"/>
+
     </circle>
 
-    <circle cx="600" cy="246" r="17" fill="#070B14" stroke="#8B5CF6" stroke-width="2" filter="url(#glow)"/>
 
-    <circle cx="600" cy="246" r="6" fill="#22E0E0" filter="url(#glow)">
-      <animate attributeName="r" values="5;9;5" dur="1.8s" repeatCount="indefinite"/>
+    <circle cx="600"
+            cy="279"
+            r="17"
+            fill="#070B14"
+            stroke="#8B5CF6"
+            stroke-width="2"
+            filter="url(#glow)"/>
+
+
+    <circle cx="600"
+            cy="279"
+            r="6"
+            fill="#22E0E0"
+            filter="url(#glow)">
+
+      <animate attributeName="r"
+               values="5;10;5"
+               dur="1.8s"
+               repeatCount="indefinite"/>
+
     </circle>
 
-    <text x="600" y="280" text-anchor="middle" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="11" letter-spacing="2.5">AI ROUTER / CONTROL CORE</text>
-    <text x="600" y="296" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="9" letter-spacing="1">SMART · MANUAL · FAILOVER</text>
+
+    <text x="600"
+          y="314"
+          text-anchor="middle"
+          fill="#F8FAFC"
+          font-family="ui-monospace,monospace"
+          font-size="11"
+          letter-spacing="2.5">
+
+      AI ROUTER / CONTROL CORE
+
+    </text>
+
+
+    <text x="600"
+          y="330"
+          text-anchor="middle"
+          fill="#6B7593"
+          font-family="ui-monospace,monospace"
+          font-size="9"
+          letter-spacing="1">
+
+      SMART · MANUAL · FAILOVER
+
+    </text>
+
   </g>
 
+
+  <!-- ================================================= -->
   <!-- EXECUTE -->
+  <!-- ================================================= -->
+
   <g>
-    <rect x="775" y="216" width="150" height="72" rx="12" fill="#080D18" stroke="#263149"/>
-    <text x="850" y="239" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.8">EXECUTE</text>
-    <text x="850" y="264" text-anchor="middle" fill="#E7ECF7" font-family="Arial" font-size="15.5" font-weight="600">LLM Provider</text>
+
+    <rect x="775"
+          y="249"
+          width="150"
+          height="72"
+          rx="12"
+          fill="#080D18"
+          stroke="#263149"/>
+
+    <text x="850"
+          y="272"
+          text-anchor="middle"
+          fill="#6B7593"
+          font-family="ui-monospace,monospace"
+          font-size="10"
+          letter-spacing="1.8">
+
+      EXECUTE
+
+    </text>
+
+    <text x="850"
+          y="298"
+          text-anchor="middle"
+          fill="#E7ECF7"
+          font-family="Arial"
+          font-size="15.5"
+          font-weight="600">
+
+      LLM Provider
+
+    </text>
+
   </g>
 
+
+  <!-- ================================================= -->
   <!-- OUTPUT -->
+  <!-- ================================================= -->
+
   <g>
-    <rect x="968" y="216" width="150" height="72" rx="12" fill="#080D18" stroke="#263149"/>
-    <text x="1043" y="239" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.8">OUTPUT</text>
-    <text x="1043" y="264" text-anchor="middle" fill="#E7ECF7" font-family="Arial" font-size="16" font-weight="600">Response</text>
-    <circle cx="968" cy="252" r="5" fill="#D946EF" filter="url(#glow)">
-      <animate attributeName="r" values="4;8;4" dur="2s" begin="1s" repeatCount="indefinite"/>
+
+    <rect x="968"
+          y="249"
+          width="150"
+          height="72"
+          rx="12"
+          fill="#080D18"
+          stroke="#263149"/>
+
+    <text x="1043"
+          y="272"
+          text-anchor="middle"
+          fill="#6B7593"
+          font-family="ui-monospace,monospace"
+          font-size="10"
+          letter-spacing="1.8">
+
+      OUTPUT
+
+    </text>
+
+    <text x="1043"
+          y="298"
+          text-anchor="middle"
+          fill="#E7ECF7"
+          font-family="Arial"
+          font-size="16"
+          font-weight="600">
+
+      Response
+
+    </text>
+
+    <circle cx="968"
+            cy="285"
+            r="5"
+            fill="#D946EF"
+            filter="url(#glow)">
+
+      <animate attributeName="r"
+               values="4;8;4"
+               dur="2s"
+               begin="1s"
+               repeatCount="indefinite"/>
+
     </circle>
+
   </g>
 
-  <!-- MOVING PACKETS -->
-  <circle r="4" fill="#22E0E0" filter="url(#glow)">
-    <animateMotion dur="4s" repeatCount="indefinite" path="M130 252 L1070 252"/>
-  </circle>
-  <circle r="3.5" fill="#8B5CF6" filter="url(#glow)">
-    <animateMotion dur="4s" begin="1.4s" repeatCount="indefinite" path="M130 252 L1070 252"/>
-  </circle>
-  <circle r="3.5" fill="#D946EF" filter="url(#glow)">
-    <animateMotion dur="4s" begin="2.7s" repeatCount="indefinite" path="M130 252 L1070 252"/>
+
+  <!-- ================================================= -->
+  <!-- MOVING DATA -->
+  <!-- ================================================= -->
+
+  <circle r="4"
+          fill="#22E0E0"
+          filter="url(#glow)">
+
+    <animateMotion dur="4s"
+                   repeatCount="indefinite"
+                   path="M130 285 L1070 285"/>
+
   </circle>
 
+
+  <circle r="3.5"
+          fill="#8B5CF6"
+          filter="url(#glow)">
+
+    <animateMotion dur="4s"
+                   begin="1.4s"
+                   repeatCount="indefinite"
+                   path="M130 285 L1070 285"/>
+
+  </circle>
+
+
+  <circle r="3.5"
+          fill="#D946EF"
+          filter="url(#glow)">
+
+    <animateMotion dur="4s"
+                   begin="2.7s"
+                   repeatCount="indefinite"
+                   path="M130 285 L1070 285"/>
+
+  </circle>
+
+
+  <!-- ================================================= -->
   <!-- CAPABILITY STRIP -->
-  <rect x="80" y="332" width="1040" height="50" rx="12" fill="#080C16" stroke="#1E293B"/>
+  <!-- ================================================= -->
 
-  <text x="170" y="362" text-anchor="middle" fill="#22E0E0" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">MULTI-AGENT AI</text>
-  <text x="380" y="362" text-anchor="middle" fill="#A9B6F5" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">LLM ORCHESTRATION</text>
-  <text x="600" y="362" text-anchor="middle" fill="#C9B6F7" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">RAG &amp; GENAI</text>
-  <text x="820" y="362" text-anchor="middle" fill="#79E9F5" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">AI INFRASTRUCTURE</text>
-  <text x="1030" y="362" text-anchor="middle" fill="#F0ABFC" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">CLOUD &amp; DEVSECOPS</text>
+  <rect x="80"
+        y="370"
+        width="1040"
+        height="54"
+        rx="13"
+        fill="#080C16"
+        stroke="#1E293B"/>
 
-  <g stroke="#1E293B" stroke-width="1">
-    <line x1="275" y1="345" x2="275" y2="369"/>
-    <line x1="495" y1="345" x2="495" y2="369"/>
-    <line x1="705" y1="345" x2="705" y2="369"/>
-    <line x1="925" y1="345" x2="925" y2="369"/>
+
+  <text x="170"
+        y="403"
+        text-anchor="middle"
+        fill="#22E0E0"
+        font-family="ui-monospace,monospace"
+        font-size="10"
+        letter-spacing="1.3">
+
+    GENAI
+
+  </text>
+
+
+  <text x="380"
+        y="403"
+        text-anchor="middle"
+        fill="#A9B6F5"
+        font-family="ui-monospace,monospace"
+        font-size="10"
+        letter-spacing="1.3">
+
+    ORCHESTRATION
+
+  </text>
+
+
+  <text x="600"
+        y="403"
+        text-anchor="middle"
+        fill="#C9B6F7"
+        font-family="ui-monospace,monospace"
+        font-size="10"
+        letter-spacing="1.3">
+
+    AI INFRA
+
+  </text>
+
+
+  <text x="820"
+        y="403"
+        text-anchor="middle"
+        fill="#79E9F5"
+        font-family="ui-monospace,monospace"
+        font-size="10"
+        letter-spacing="1.3">
+
+    CLOUD DEPLOYMENT
+
+  </text>
+
+
+  <text x="1030"
+        y="403"
+        text-anchor="middle"
+        fill="#F0ABFC"
+        font-family="ui-monospace,monospace"
+        font-size="10"
+        letter-spacing="1.3">
+
+    DEVSECOPS
+
+  </text>
+
+
+  <!-- separators -->
+
+  <g stroke="#1E293B"
+     stroke-width="1">
+
+    <line x1="275" y1="384" x2="275" y2="410"/>
+    <line x1="495" y1="384" x2="495" y2="410"/>
+    <line x1="705" y1="384" x2="705" y2="410"/>
+    <line x1="925" y1="384" x2="925" y2="410"/>
+
   </g>
 
+
+  <!-- ================================================= -->
   <!-- OUTER FRAME -->
-  <rect x="1.5" y="1.5" width="1197" height="417" rx="26" fill="none" stroke="#242B3D" stroke-width="1.5"/>
+  <!-- ================================================= -->
+
+  <rect x="1.5"
+        y="1.5"
+        width="1197"
+        height="457"
+        rx="28"
+        fill="none"
+        stroke="#242B3D"
+        stroke-width="1.5"/>
+
 </svg>
