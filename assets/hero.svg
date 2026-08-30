@@ -1,627 +1,159 @@
-<svg width="1200" height="390" viewBox="0 0 1200 390"
+<svg width="1200" height="420" viewBox="0 0 1200 420"
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-
-    <!-- Main cyan → purple → magenta gradient -->
-    <linearGradient id="heroGradient"
-                    x1="0%" y1="0%"
-                    x2="100%" y2="0%">
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22e0e0"/>
-      <stop offset="45%" stop-color="#6366F1"/>
-      <stop offset="75%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
       <stop offset="100%" stop-color="#D946EF"/>
     </linearGradient>
 
-    <!-- Ambient cyan glow -->
-    <radialGradient id="cyanAmbient"
-                    cx="88%" cy="8%" r="70%">
-      <stop offset="0%"
-            stop-color="#22e0e0"
-            stop-opacity="0.18"/>
-      <stop offset="45%"
-            stop-color="#22e0e0"
-            stop-opacity="0.06"/>
-      <stop offset="100%"
-            stop-color="#07070d"
-            stop-opacity="0"/>
+    <linearGradient id="accentSoft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22e0e0" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <radialGradient id="ambient" cx="50%" cy="38%" r="75%">
+      <stop offset="0%" stop-color="#3B2E81" stop-opacity="0.20"/>
+      <stop offset="55%" stop-color="#111827" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#05070D" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Ambient purple glow -->
-    <radialGradient id="purpleAmbient"
-                    cx="12%" cy="92%" r="65%">
-      <stop offset="0%"
-            stop-color="#8B5CF6"
-            stop-opacity="0.17"/>
-      <stop offset="50%"
-            stop-color="#8B5CF6"
-            stop-opacity="0.045"/>
-      <stop offset="100%"
-            stop-color="#07070d"
-            stop-opacity="0"/>
-    </radialGradient>
-
-    <!-- Grid -->
-    <pattern id="grid"
-             width="30"
-             height="30"
-             patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30"
-            fill="none"
-            stroke="#202438"
-            stroke-width="1"
-            opacity="0.46"/>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#161C2C" stroke-width="1" opacity="0.5"/>
     </pattern>
 
-    <!-- Glow -->
-    <filter id="glow"
-            x="-50%" y="-50%"
-            width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3.5"
-                      result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-    <!-- Strong glow -->
-    <filter id="strongGlow"
-            x="-80%" y="-80%"
-            width="260%" height="260%">
-      <feGaussianBlur stdDeviation="8"
-                      result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="softGlow" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
   </defs>
 
-
-  <!-- ================================================= -->
   <!-- BACKGROUND -->
-  <!-- ================================================= -->
+  <rect width="1200" height="420" rx="26" fill="#05070D"/>
+  <rect width="1200" height="420" rx="26" fill="url(#ambient)"/>
+  <rect width="1200" height="420" rx="26" fill="url(#grid)" opacity="0.4"/>
 
-  <rect width="1200"
-        height="390"
-        rx="26"
-        fill="#07070d"/>
-
-  <rect width="1200"
-        height="390"
-        rx="26"
-        fill="url(#cyanAmbient)"/>
-
-  <rect width="1200"
-        height="390"
-        rx="26"
-        fill="url(#purpleAmbient)"/>
-
-  <rect width="1200"
-        height="390"
-        rx="26"
-        fill="url(#grid)"
-        opacity="0.50"/>
-
-
-  <!-- ================================================= -->
-  <!-- DECORATIVE CIRCUIT TRACES -->
-  <!-- ================================================= -->
-
-  <g fill="none"
-     stroke="url(#heroGradient)"
-     stroke-width="1.2"
-     stroke-dasharray="7 6"
-     opacity="0.42"
-     filter="url(#glow)">
-
-    <!-- top-right -->
-    <path d="M870 0
-             V62
-             H1070
-             V145
-             H930
-             V250
-             H1200">
-
-      <animate attributeName="stroke-dashoffset"
-               from="0"
-               to="-160"
-               dur="8s"
-               repeatCount="indefinite"/>
-    </path>
-
-    <!-- bottom-left -->
-    <path d="M0 315
-             H120
-             V265
-             H275
-             V335
-             H390">
-
-      <animate attributeName="stroke-dashoffset"
-               from="0"
-               to="-120"
-               dur="7s"
-               repeatCount="indefinite"/>
-    </path>
-
-    <!-- far left -->
-    <path d="M0 95
-             H90
-             V48
-             H220">
-
-      <animate attributeName="stroke-dashoffset"
-               from="0"
-               to="-100"
-               dur="5s"
-               repeatCount="indefinite"/>
-    </path>
-
-    <!-- bottom-right -->
-    <path d="M760 390
-             V340
-             H855
-             V305
-             H1045
-             V270
-             H1200">
-
-      <animate attributeName="stroke-dashoffset"
-               from="0"
-               to="-130"
-               dur="7s"
-               repeatCount="indefinite"/>
-    </path>
-
+  <!-- ambient stars -->
+  <g fill="#8B93B8">
+    <circle cx="95" cy="90" r="1.1" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="120" r="1.1" opacity="0.4"><animate attributeName="opacity" values="0.6;0.15;0.6" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="70" r="1" opacity="0.5"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="150" r="1" opacity="0.4"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="6s" repeatCount="indefinite"/></circle>
   </g>
 
+  <!-- TOP BAR -->
+  <text x="42" y="45" fill="#6B7593" font-family="ui-monospace,Menlo,monospace" font-size="11" letter-spacing="2">RANAJIT.AI / CONTROL_PLANE</text>
 
-  <!-- ================================================= -->
-  <!-- ANIMATED DATA STREAMS -->
-  <!-- ================================================= -->
-
-  <g fill="none"
-     stroke="url(#heroGradient)"
-     stroke-linecap="round">
-
-    <!-- Main stream -->
-    <path d="M0 278
-             C140 225
-             260 225
-             370 255
-             C470 282
-             520 265
-             600 265
-             C680 265
-             730 282
-             830 255
-             C940 225
-             1060 225
-             1200 278"
-          stroke-width="2.4"
-          opacity="0.68"
-          stroke-dasharray="12 16">
-
-      <animate attributeName="stroke-dashoffset"
-               from="0"
-               to="-170"
-               dur="2.4s"
-               repeatCount="indefinite"/>
-    </path>
-
-    <!-- Secondary stream -->
-    <path d="M0 300
-             C150 260
-             285 260
-             390 280
-             C480 297
-             535 286
-             600 286
-             C665 286
-             720 297
-             810 280
-             C915 260
-             1050 260
-             1200 300"
-          stroke-width="1.2"
-          opacity="0.34"
-          stroke-dasharray="4 14">
-
-      <animate attributeName="stroke-dashoffset"
-               from="0"
-               to="-120"
-               dur="3.5s"
-               repeatCount="indefinite"/>
-    </path>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- MOVING DATA PACKETS -->
-  <!-- ================================================= -->
-
-  <g filter="url(#glow)">
-
-    <circle r="4"
-            fill="#22e0e0">
-
-      <animateMotion dur="3.6s"
-                     repeatCount="indefinite"
-                     path="M0 278
-                          C140 225 260 225 370 255
-                          C470 282 520 265 600 265
-                          C680 265 730 282 830 255
-                          C940 225 1060 225 1200 278"/>
-    </circle>
-
-    <circle r="3"
-            fill="#8B5CF6">
-
-      <animateMotion dur="4.6s"
-                     begin="1s"
-                     repeatCount="indefinite"
-                     path="M0 278
-                          C140 225 260 225 370 255
-                          C470 282 520 265 600 265
-                          C680 265 730 282 830 255
-                          C940 225 1060 225 1200 278"/>
-    </circle>
-
-    <circle r="3"
-            fill="#D946EF">
-
-      <animateMotion dur="3.9s"
-                     begin="1.8s"
-                     repeatCount="indefinite"
-                     path="M0 300
-                          C150 260 285 260 390 280
-                          C480 297 535 286 600 286
-                          C665 286 720 297 810 280
-                          C915 260 1050 260 1200 300"/>
-    </circle>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- SMALL SYSTEM STATUS -->
-  <!-- ================================================= -->
-
-  <text x="54"
-        y="54"
-        fill="#22e0e0"
-        font-family="monospace"
-        font-size="11"
-        letter-spacing="2">
-    AI SYSTEMS / ONLINE
-  </text>
-
-  <circle cx="208"
-          cy="50"
-          r="4"
-          fill="#22C55E"
-          filter="url(#glow)">
-
-    <animate attributeName="opacity"
-             values="1;0.25;1"
-             dur="2s"
-             repeatCount="indefinite"/>
+  <circle cx="264" cy="41" r="4" fill="#22E0E0" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="1145"
-        y="54"
-        text-anchor="end"
-        fill="#59627C"
-        font-family="monospace"
-        font-size="10.5"
-        letter-spacing="1.5">
-    BUILD • ORCHESTRATE • DEPLOY
+  <text x="1158" y="45" text-anchor="end" fill="#576079" font-family="ui-monospace,Menlo,monospace" font-size="10" letter-spacing="1.5">
+    SYSTEM ONLINE
+    <animate attributeName="fill" values="#576079;#22E0E0;#576079" dur="4s" repeatCount="indefinite"/>
   </text>
 
-
-  <!-- ================================================= -->
-  <!-- LEFT TECH LABELS -->
-  <!-- ================================================= -->
-
-  <g font-family="monospace"
-     font-size="10"
-     letter-spacing="1.2">
-
-    <rect x="52"
-          y="100"
-          width="148"
-          height="29"
-          rx="14"
-          fill="#0B1020"
-          stroke="#22e0e0"
-          stroke-opacity="0.30"/>
-
-    <text x="126"
-          y="119"
-          text-anchor="middle"
-          fill="#67E8F9">
-      MULTI-AGENT AI
-    </text>
-
-
-    <rect x="52"
-          y="138"
-          width="148"
-          height="29"
-          rx="14"
-          fill="#0B1020"
-          stroke="#6366F1"
-          stroke-opacity="0.35"/>
-
-    <text x="126"
-          y="157"
-          text-anchor="middle"
-          fill="#A5B4FC">
-      LLM ORCHESTRATION
-    </text>
-
-
-    <rect x="52"
-          y="176"
-          width="148"
-          height="29"
-          rx="14"
-          fill="#0B1020"
-          stroke="#8B5CF6"
-          stroke-opacity="0.35"/>
-
-    <text x="126"
-          y="195"
-          text-anchor="middle"
-          fill="#C4B5FD">
-      RAG &amp; GENAI
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- RIGHT TECH LABELS -->
-  <!-- ================================================= -->
-
-  <g font-family="monospace"
-     font-size="10"
-     letter-spacing="1.2">
-
-    <rect x="1000"
-          y="100"
-          width="148"
-          height="29"
-          rx="14"
-          fill="#0B1020"
-          stroke="#22e0e0"
-          stroke-opacity="0.30"/>
-
-    <text x="1074"
-          y="119"
-          text-anchor="middle"
-          fill="#67E8F9">
-      AI INFRASTRUCTURE
-    </text>
-
-
-    <rect x="1000"
-          y="138"
-          width="148"
-          height="29"
-          rx="14"
-          fill="#0B1020"
-          stroke="#6366F1"
-          stroke-opacity="0.35"/>
-
-    <text x="1074"
-          y="157"
-          text-anchor="middle"
-          fill="#A5B4FC">
-      CLOUD ENGINEERING
-    </text>
-
-
-    <rect x="1000"
-          y="176"
-          width="148"
-          height="29"
-          rx="14"
-          fill="#0B1020"
-          stroke="#D946EF"
-          stroke-opacity="0.30"/>
-
-    <text x="1074"
-          y="195"
-          text-anchor="middle"
-          fill="#F0ABFC">
-      DEVSECOPS
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
   <!-- MAIN IDENTITY -->
-  <!-- ================================================= -->
+  <text x="600" y="97" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="2.5">RANAJIT DHAR</text>
 
-  <text x="600"
-        y="105"
-        text-anchor="middle"
-        fill="#F8FAFC"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="43"
-        font-weight="700"
-        letter-spacing="2">
-    RANAJIT DHAR
-  </text>
+  <text x="600" y="127" text-anchor="middle" fill="url(#accent)" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3.5">GENAI ENGINEER · AI SYSTEMS ARCHITECT</text>
 
+  <text x="600" y="153" text-anchor="middle" fill="#8792AD" font-family="Arial,Helvetica,sans-serif" font-size="13.5">Building resilient AI infrastructure, multi-agent systems</text>
+  <text x="600" y="172" text-anchor="middle" fill="#8792AD" font-family="Arial,Helvetica,sans-serif" font-size="13.5">&amp; production-oriented GenAI applications — solo, end to end.</text>
 
-  <!-- Gradient divider -->
-  <line x1="370"
-        y1="126"
-        x2="830"
-        y2="126"
-        stroke="url(#heroGradient)"
-        stroke-width="2"
-        opacity="0.75"/>
+  <!-- PIPELINE BACKBONE -->
+  <line x1="130" y1="252" x2="1070" y2="252" stroke="#1B2338" stroke-width="2"/>
+  <line x1="130" y1="252" x2="1070" y2="252" stroke="url(#accent)" stroke-width="1.5" stroke-dasharray="10 22" opacity="0.5">
+    <animate attributeName="stroke-dashoffset" from="0" to="-192" dur="3.2s" repeatCount="indefinite"/>
+  </line>
 
-  <circle cx="600"
-          cy="126"
-          r="5"
-          fill="#22e0e0"
-          filter="url(#glow)">
+  <!-- INPUT -->
+  <g>
+    <rect x="82" y="216" width="150" height="72" rx="12" fill="#080D18" stroke="#263149"/>
+    <text x="157" y="239" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.8">INPUT</text>
+    <text x="157" y="264" text-anchor="middle" fill="#E7ECF7" font-family="Arial" font-size="16" font-weight="600">Prompt</text>
+    <circle cx="232" cy="252" r="5" fill="#22E0E0" filter="url(#glow)">
+      <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-    <animate attributeName="r"
-             values="4;8;4"
-             dur="2s"
-             repeatCount="indefinite"/>
+  <!-- REASON -->
+  <g>
+    <rect x="275" y="216" width="150" height="72" rx="12" fill="#080D18" stroke="#263149"/>
+    <text x="350" y="239" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.8">REASON</text>
+    <text x="350" y="264" text-anchor="middle" fill="#E7ECF7" font-family="Arial" font-size="16" font-weight="600">Agents</text>
+  </g>
 
-    <animate attributeName="opacity"
-             values="1;0.35;1"
-             dur="2s"
-             repeatCount="indefinite"/>
+  <!-- ROUTER CORE -->
+  <g>
+    <rect x="466" y="196" width="268" height="108" rx="18" fill="#0A0F1F" stroke="url(#accent)" stroke-width="1.5"/>
 
-  </circle>
-
-
-  <text x="600"
-        y="161"
-        text-anchor="middle"
-        fill="url(#heroGradient)"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="19"
-        font-weight="600"
-        letter-spacing="3">
-    GENAI ENGINEER · AI SYSTEMS ARCHITECT
-  </text>
-
-
-  <text x="600"
-        y="190"
-        text-anchor="middle"
-        fill="#A0A7C0"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="14">
-    Building resilient AI infrastructure, multi-agent systems
-  </text>
-
-  <text x="600"
-        y="211"
-        text-anchor="middle"
-        fill="#A0A7C0"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="14">
-    &amp; production-oriented GenAI applications.
-  </text>
-
-
-  <!-- ================================================= -->
-  <!-- CENTRAL SYSTEM CORE -->
-  <!-- ================================================= -->
-
-  <g filter="url(#strongGlow)">
-
-    <circle cx="600"
-            cy="264"
-            r="22"
-            fill="#070B17"
-            stroke="url(#heroGradient)"
-            stroke-width="2"/>
-
-    <circle cx="600"
-            cy="264"
-            r="8"
-            fill="#22e0e0">
-
-      <animate attributeName="r"
-               values="7;13;7"
-               dur="1.8s"
-               repeatCount="indefinite"/>
-
-      <animate attributeName="opacity"
-               values="1;0.25;1"
-               dur="1.8s"
-               repeatCount="indefinite"/>
+    <circle cx="600" cy="246" r="20" fill="none" stroke="url(#accentSoft)" stroke-width="1" opacity="0.6">
+      <animate attributeName="r" values="18;26;18" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.05;0.6" dur="3s" repeatCount="indefinite"/>
     </circle>
 
+    <circle cx="600" cy="246" r="17" fill="#070B14" stroke="#8B5CF6" stroke-width="2" filter="url(#glow)"/>
+
+    <circle cx="600" cy="246" r="6" fill="#22E0E0" filter="url(#glow)">
+      <animate attributeName="r" values="5;9;5" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="600" y="280" text-anchor="middle" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="11" letter-spacing="2.5">AI ROUTER / CONTROL CORE</text>
+    <text x="600" y="296" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="9" letter-spacing="1">SMART · MANUAL · FAILOVER</text>
   </g>
 
-
-  <!-- ================================================= -->
-  <!-- BOTTOM SYSTEM LABELS -->
-  <!-- ================================================= -->
-
-  <g font-family="monospace"
-     font-size="10"
-     letter-spacing="1.4">
-
-    <text x="270"
-          y="340"
-          text-anchor="middle"
-          fill="#59627C">
-      INTELLIGENCE
-    </text>
-
-    <text x="440"
-          y="340"
-          text-anchor="middle"
-          fill="#59627C">
-      ORCHESTRATION
-    </text>
-
-    <text x="760"
-          y="340"
-          text-anchor="middle"
-          fill="#59627C">
-      INFRASTRUCTURE
-    </text>
-
-    <text x="930"
-          y="340"
-          text-anchor="middle"
-          fill="#59627C">
-      DEPLOYMENT
-    </text>
-
+  <!-- EXECUTE -->
+  <g>
+    <rect x="775" y="216" width="150" height="72" rx="12" fill="#080D18" stroke="#263149"/>
+    <text x="850" y="239" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.8">EXECUTE</text>
+    <text x="850" y="264" text-anchor="middle" fill="#E7ECF7" font-family="Arial" font-size="15.5" font-weight="600">LLM Provider</text>
   </g>
 
+  <!-- OUTPUT -->
+  <g>
+    <rect x="968" y="216" width="150" height="72" rx="12" fill="#080D18" stroke="#263149"/>
+    <text x="1043" y="239" text-anchor="middle" fill="#6B7593" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.8">OUTPUT</text>
+    <text x="1043" y="264" text-anchor="middle" fill="#E7ECF7" font-family="Arial" font-size="16" font-weight="600">Response</text>
+    <circle cx="968" cy="252" r="5" fill="#D946EF" filter="url(#glow)">
+      <animate attributeName="r" values="4;8;4" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-  <!-- ================================================= -->
-  <!-- EDGE TELEMETRY -->
-  <!-- ================================================= -->
+  <!-- MOVING PACKETS -->
+  <circle r="4" fill="#22E0E0" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M130 252 L1070 252"/>
+  </circle>
+  <circle r="3.5" fill="#8B5CF6" filter="url(#glow)">
+    <animateMotion dur="4s" begin="1.4s" repeatCount="indefinite" path="M130 252 L1070 252"/>
+  </circle>
+  <circle r="3.5" fill="#D946EF" filter="url(#glow)">
+    <animateMotion dur="4s" begin="2.7s" repeatCount="indefinite" path="M130 252 L1070 252"/>
+  </circle>
 
-  <text x="52"
-        y="370"
-        fill="#424B66"
-        font-family="monospace"
-        font-size="9.5">
-    SIGNAL: ACTIVE
-  </text>
+  <!-- CAPABILITY STRIP -->
+  <rect x="80" y="332" width="1040" height="50" rx="12" fill="#080C16" stroke="#1E293B"/>
 
-  <text x="1148"
-        y="370"
-        text-anchor="end"
-        fill="#424B66"
-        font-family="monospace"
-        font-size="9.5">
-    SYSTEM: READY
-  </text>
+  <text x="170" y="362" text-anchor="middle" fill="#22E0E0" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">MULTI-AGENT AI</text>
+  <text x="380" y="362" text-anchor="middle" fill="#A9B6F5" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">LLM ORCHESTRATION</text>
+  <text x="600" y="362" text-anchor="middle" fill="#C9B6F7" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">RAG &amp; GENAI</text>
+  <text x="820" y="362" text-anchor="middle" fill="#79E9F5" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">AI INFRASTRUCTURE</text>
+  <text x="1030" y="362" text-anchor="middle" fill="#F0ABFC" font-family="ui-monospace,monospace" font-size="10" letter-spacing="1.3">CLOUD &amp; DEVSECOPS</text>
 
+  <g stroke="#1E293B" stroke-width="1">
+    <line x1="275" y1="345" x2="275" y2="369"/>
+    <line x1="495" y1="345" x2="495" y2="369"/>
+    <line x1="705" y1="345" x2="705" y2="369"/>
+    <line x1="925" y1="345" x2="925" y2="369"/>
+  </g>
 
-  <!-- outer frame -->
-  <rect x="1.5"
-        y="1.5"
-        width="1197"
-        height="387"
-        rx="26"
-        fill="none"
-        stroke="#262A3A"
-        stroke-width="1.5"/>
-
+  <!-- OUTER FRAME -->
+  <rect x="1.5" y="1.5" width="1197" height="417" rx="26" fill="none" stroke="#242B3D" stroke-width="1.5"/>
 </svg>
