@@ -9,17 +9,25 @@
 <br/>
 <br/>
 
-### 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <i>"From a Commerce graduate to an <b>International Hackathon Winning AI Architect</b>, building self-healing multi-agent ecosystems and autonomous software factories."</i>
+  <i>
+    From a <b>Commerce graduate</b> to an <b>International Hackathon Winner</b>,
+    I build <b>multi-agent AI systems, RAG applications, and resilient GenAI infrastructure</b>
+    with a focus on practical engineering and real-world deployment.
+  </i>
 </p>
 
-- 💼 **Current Focus:** Architecting **TryNext AI** (Autonomous Voice-to-Software engine) & the **YES Ai Master Edition** (Self-healing Multi-Brain OS).
-- ☁️ **Cloud & AI Expertise:** Google Cloud Certified Developer | Specializing in **LLM Orchestration**, **Multimodal RAG**, **Serverless Edge Deployments**, and **DevSecOps**.
-- 🚀 **Mission:** Bridging the gap between business logic and deep tech—building highly scalable, **production-ready AI** solutions for the "Next Billion Users."
-- 🧠 **Core Strength:** Designing fault-tolerant, **Autonomous Multi-Agent Swarms** (Navigator/Curator/Evaluator) with unbreakable auto-failover circuits.
-- ⚡ **Fun Fact:** I engineer massive, enterprise-grade AI systems entirely solo — from the initial architectural blueprint to the final Vercel edge deployment.
+- 🧠 **AI Systems:** Building multi-agent workflows, LLM-powered applications, RAG pipelines, and tool-using AI systems.
+
+- ⚙️ **Engineering:** Working primarily with Python, Next.js, TypeScript, REST APIs, and modular application architectures.
+
+- ☁️ **Cloud & Deployment:** Hands-on with Google Cloud, Vertex AI, Cloud Run, Vercel, Docker, and serverless deployment.
+
+- 🎯 **Approach:** Turning complex workflows into reliable, practical AI systems with a strong focus on resilience, automation, and deployment.
+
+- 🚀 **Current Focus:** Building resilient AI infrastructure and autonomous GenAI products, including **rdai**, **TryNext AI**, and the **ChayRa AI ecosystem**.
 
 <br/>
 <br/>
