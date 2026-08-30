@@ -109,6 +109,64 @@
 <table border="0" width="100%">
 <tr>
 <td colspan="2" align="center" valign="top">
+<h3 style="margin-top: 0;">RDAI <span style="font-size: 16px; color: #8b5cf6;">(Multi-Brain AI Orchestrator)</span> <img src="https://img.shields.io/badge/OPEN_SOURCE-8B5CF6?style=flat-square&logo=python&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
+<img src="YOUR_ISSUE_IMAGE_LINK_HERE" alt="rdai Live Provider Diagnostics" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<!-- LEFT SIDE: BUTTONS (25%) ZIG-ZAG PATTERN -->
+<td width="25%" align="center" valign="middle">
+<a href="https://github.com/ranajitdharpersonal/rdai">
+<img src="https://img.shields.io/badge/Source_Code-View_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://pypi.org/project/rdai/">
+<img src="https://img.shields.io/badge/PyPI-Install_Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+</a>
+</td>
+
+<!-- RIGHT SIDE: TEXT (75%) -->
+
+<td width="75%" valign="top">
+<p><b>rdai</b> is a resilient, provider-agnostic <b>Python AI orchestration SDK</b> designed to make AI applications survive provider failures. It gives developers one unified interface for multiple AI engines, intelligently routes requests, continuously tracks provider availability, and automatically fails over to the next healthy brain when a model hits a timeout, rate limit, or runtime failure.</p>
+
+<p><b>✨ Core Architectural Capabilities:</b></p>
+<ul>
+<li>🧠 <b>Multi-Brain Unified SDK:</b> One simple <code>AI()</code> interface abstracts away vendor-specific SDKs and normalizes generation across <b>11+ AI providers</b>.</li>
+<li>🎯 <b>Smart & Manual Routing:</b> <code>smart</code> mode reorders available providers according to request traits and intent, while <code>manual</code> mode follows an explicit provider priority chain.</li>
+<li>🔌 <b>Automatic Failover Circuit Breaker:</b> Failed providers are transparently skipped and the request is rerouted to the next available brain, with failure thresholds and recovery timeouts for resilient execution.</li>
+<li>🩺 <b>Live Provider Doctor:</b> The built-in <code>rdai doctor</code> command performs real provider diagnostics, checking authentication, reachability, and latency before deployment.</li>
+<li>🔐 <b>Zero-Hardcoding Credential Discovery:</b> API credentials are discovered locally from environment configuration, with explicit keys taking precedence—keeping secrets outside application code.</li>
+<li>🧩 <b>Bring Your Own Model (BYOM):</b> Custom provider adapters can implement the shared provider contract and join the same routing and failover pipeline without modifying the orchestration core.</li>
+<li>⚙️ <b>Developer CLI Suite:</b> Includes <code>init</code>, <code>doctor</code>, <code>config</code>, <code>benchmark</code>, <code>health</code>, and <code>about</code> commands for setup, diagnostics, benchmarking, and operational visibility.</li>
+<li>🚀 <b>Model Flexibility:</b> Providers support explicit model overrides while retaining safe provider-level defaults, allowing applications to swap models without changing business logic.</li>
+</ul>
+
+<p><b>🔧 Enterprise Tech Stack:</b></p>
+<p>
+<img src="https://img.shields.io/badge/Python-SDK-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/11%2B-AI_Providers-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Smart_Routing-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Auto--Failover-Circuit_Breaker-EF4444?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/CLI-Operational_Tooling-111827?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PyPI-rdai-3775A9?style=flat-square&logo=pypi&logoColor=white" />
+<img src="https://img.shields.io/badge/MIT-License-16A34A?style=flat-square" />
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center" valign="top">
 <h3 style="margin-top: 0;">CHAYRA AI <span style="font-size: 16px; color: #ef4444;">(Autonomous Crisis Response Swarm)</span> <img src="https://img.shields.io/badge/MISSION_CRITICAL-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
 <!-- Note: GitHub theke apnar architecture image er direct link ekhane replace kore neben -->
 <img src="https://github.com/ranajitdharpersonal/chayra-ai/raw/main/public/architecture.png" alt="ChayRa AI Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
