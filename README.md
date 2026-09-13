@@ -431,6 +431,13 @@
 <a href="https://www.youtube.com/watch?v=xQ3aYaKS1BQ">
 <img src="https://img.shields.io/badge/Demo_Video-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+  <p align="center">
+  <b>Created & Engineered by Ranajit Dhar</b>
+  &nbsp;·&nbsp;
+  <a href="https://ranajitdhar.in">Official Website</a>
+</p>
+
+<br/>
 </td>
 </tr>
 </table>
@@ -510,6 +517,13 @@
 <a href="https://www.youtube.com/watch?v=AkyKg3zEi3s">
 <img src="https://img.shields.io/badge/Demo_Video-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+  <p align="center">
+  <b>Created & Engineered by Ranajit Dhar</b>
+  &nbsp;·&nbsp;
+  <a href="https://ranajitdhar.in">Official Website</a>
+</p>
+
+<br/>
 </td>
 </tr>
 </table>
