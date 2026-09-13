@@ -188,6 +188,14 @@
 <!-- Note: GitHub theke apnar architecture image er direct link ekhane replace kore neben -->
 <img src="https://github.com/ranajitdharpersonal/chayra-ai/raw/main/public/architecture.png" alt="ChayRa AI Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
 <br/><br/>
+
+  <p align="center">
+  <b>Created & Engineered by Ranajit Dhar</b>
+  &nbsp;·&nbsp;
+  <a href="https://ranajitdhar.in">Official Website</a>
+</p>
+
+<br/>
 </td>
 </tr>
 <tr>
@@ -243,6 +251,13 @@
 <h3 style="margin-top: 0;">TRYNEXT AI <span style="font-size: 16px; color: #0ea5e9;">(Autonomous Voice-to-Software Factory)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
 <img src="https://github.com/user-attachments/assets/02d4593b-0004-4cb7-89f2-8ac44020b180" alt="TryNext AI Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
 <br/><br/>
+  <p align="center">
+  <b>Created & Engineered by Ranajit Dhar</b>
+  &nbsp;·&nbsp;
+  <a href="https://ranajitdhar.in">Official Website</a>
+</p>
+
+<br/>
 </td>
 </tr>
 <tr>
@@ -297,6 +312,13 @@
 <h3 style="margin-top: 0;">YES AI MASTER GITLAB EDITION <span style="font-size: 16px; color: #FC6D26;">(GitLab Duo DevSecOps)</span> <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
 <img src="https://github.com/user-attachments/assets/fc9679e7-58d2-4dcf-a5ea-0d4f5c25380b" alt="YES AI GitLab Architecture" width="100%" style="border-radius: 10px; max-width: 850px; border: 1px solid #333;" />
 <br/><br/>
+  <p align="center">
+  <b>Created & Engineered by Ranajit Dhar</b>
+  &nbsp;·&nbsp;
+  <a href="https://ranajitdhar.in">Official Website</a>
+</p>
+
+<br/>
 </td>
 </tr>
 <tr>
@@ -345,6 +367,13 @@
 <a href="https://yesaimaster-ranajitdhar.streamlit.app">
 <img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
+  <p align="center">
+  <b>Created & Engineered by Ranajit Dhar</b>
+  &nbsp;·&nbsp;
+  <a href="https://ranajitdhar.in">Official Website</a>
+</p>
+
+<br/>
 </td>
 <td width="60%" valign="top">
 <h3 style="margin-top: 0;">YES AI MASTER EDITION <img src="https://img.shields.io/badge/FLAGSHIP-FF0000?style=flat-square&logo=target&logoColor=white" height="20" style="vertical-align: middle;" /></h3>
@@ -420,6 +449,13 @@
 <a href="https://yesai2-ranajitdhar.streamlit.app">
 <img src="https://img.shields.io/badge/Live_Demo-Try_Now-FF0000?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
+  <p align="center">
+  <b>Created & Engineered by Ranajit Dhar</b>
+  &nbsp;·&nbsp;
+  <a href="https://ranajitdhar.in">Official Website</a>
+</p>
+
+<br/>
 </td>
 <td width="55%">
 <h3>🤖 YES Ai — Multi-Tool Agent</h3>
