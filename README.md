@@ -6,6 +6,25 @@
   />
 </div>
 
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://ranajitdhar.in">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-ranajitdhar.in-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ranajit-dhar-dev">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://devpost.com/ranajitdharpersonal">
+    <img src="https://img.shields.io/badge/🏆_Devpost-Profile-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+  </a>
+  <a href="https://www.skills.google/public_profiles/11e378de-2d7e-4df6-a6c2-4bf0a74913ae">
+    <img src="https://img.shields.io/badge/☁️_Google_Skills-Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
+</p>
+
 <br/>
 <br/>
 
