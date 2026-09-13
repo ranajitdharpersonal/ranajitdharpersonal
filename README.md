@@ -47,6 +47,8 @@
 - 🎯 **Approach:** Turning complex workflows into reliable, practical AI systems with a strong focus on resilience, automation, and deployment.
 
 - 🚀 **Current Focus:** Building resilient AI infrastructure and autonomous GenAI products, including **rdai**, **TryNext AI**, and the **ChayRa AI ecosystem**.
+- 🌐 **Official Website:** [ranajitdhar.in](https://ranajitdhar.in)
+
 
 <br/>
 <br/>
