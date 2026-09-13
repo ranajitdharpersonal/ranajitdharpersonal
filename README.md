@@ -541,6 +541,14 @@
     <br/>
     <b>Project:</b> <i>YES AI MASTER (Analyst Mode)</i> — Real-time data synthesis and gitlab integration.
   </li>
+    <br/>
+  <li>
+    <img src="https://img.shields.io/badge/Moonshot_Hackathon_2026-Top_100_Finalist-7C3AED?style=flat-square&logo=rocket&logoColor=white" />
+    <br/>
+    <b>Achievement:</b> 🏅 <b>Top 100 Finalist Award.</b>
+    <br/>
+    <b>Project:</b> <i>TryNext AI — The Self-Healing Software Factory</i>.
+  </li>
   <br/>
   <li>
     <img src="https://img.shields.io/badge/Google_Gemini_3_Hackathon-Grand_Finalist-4285F4?style=flat-square&logo=google&logoColor=white" />
